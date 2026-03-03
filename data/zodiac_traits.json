@@ -1,0 +1,618 @@
+{
+  "Aries": {
+    "dates": "March 21 - April 19",
+    "element": "Fire",
+    "ruling_planet": "Mars",
+    "personality": [
+      "Bold",
+      "energetic",
+      "initiator",
+      "competitive",
+      "enthusiastic",
+      "courageous",
+      "impulsive"
+    ],
+    "strengths": [
+      "Leadership",
+      "courage",
+      "action-oriented",
+      "optimism",
+      "determination",
+      "passion"
+    ],
+    "challenges": [
+      "Impatient",
+      "impulsive",
+      "short-tempered",
+      "aggressive",
+      "selfish",
+      "reckless"
+    ],
+    "career_tendencies": [
+      "Entrepreneurship",
+      "military",
+      "sports",
+      "management",
+      "politics",
+      "emergency services"
+    ],
+    "love_style": "Passionate and direct. Falls fast, loves the chase, needs excitement and independence in relationships.",
+    "compatible_planets": [
+      "Sun",
+      "Jupiter"
+    ],
+    "spiritual_nature": "Driven by purpose and action. Finds spirituality through doing, not contemplating.",
+    "keywords": [
+      "action",
+      "courage",
+      "fire",
+      "leadership",
+      "independence"
+    ]
+  },
+  "Taurus": {
+    "dates": "April 20 - May 20",
+    "element": "Earth",
+    "ruling_planet": "Venus",
+    "personality": [
+      "Reliable",
+      "grounded",
+      "loyal",
+      "beauty-loving",
+      "patient",
+      "persistent",
+      "sensual"
+    ],
+    "strengths": [
+      "Patience",
+      "practicality",
+      "determination",
+      "loyalty",
+      "dependability",
+      "financial sense"
+    ],
+    "challenges": [
+      "Stubbornness",
+      "resistance to change",
+      "possessiveness",
+      "materialism",
+      "laziness"
+    ],
+    "career_tendencies": [
+      "Finance",
+      "real estate",
+      "agriculture",
+      "art",
+      "music",
+      "culinary arts",
+      "luxury goods"
+    ],
+    "love_style": "Steady and devoted. Seeks security and comfort. Extremely loyal once committed but slow to open up.",
+    "compatible_planets": [
+      "Venus",
+      "Moon"
+    ],
+    "spiritual_nature": "Finds the sacred in the physical — nature, food, music, and beauty are spiritual practices.",
+    "keywords": [
+      "stability",
+      "beauty",
+      "earth",
+      "loyalty",
+      "abundance"
+    ]
+  },
+  "Gemini": {
+    "dates": "May 21 - June 20",
+    "element": "Air",
+    "ruling_planet": "Mercury",
+    "personality": [
+      "Curious",
+      "expressive",
+      "adaptable",
+      "witty",
+      "versatile",
+      "communicative",
+      "quick-minded"
+    ],
+    "strengths": [
+      "Communication",
+      "creativity",
+      "social intelligence",
+      "adaptability",
+      "learning agility"
+    ],
+    "challenges": [
+      "Inconsistency",
+      "restlessness",
+      "indecisiveness",
+      "superficiality",
+      "nervousness"
+    ],
+    "career_tendencies": [
+      "Journalism",
+      "writing",
+      "teaching",
+      "marketing",
+      "sales",
+      "technology",
+      "media"
+    ],
+    "love_style": "Playful and intellectually driven. Needs mental stimulation. Can be inconsistent but deeply engaging.",
+    "compatible_planets": [
+      "Mercury",
+      "Venus"
+    ],
+    "spiritual_nature": "Seeks truth through knowledge and conversation. Spirituality is intellectual and ever-evolving.",
+    "keywords": [
+      "communication",
+      "duality",
+      "air",
+      "curiosity",
+      "versatility"
+    ]
+  },
+  "Cancer": {
+    "dates": "June 21 - July 22",
+    "element": "Water",
+    "ruling_planet": "Moon",
+    "personality": [
+      "Intuitive",
+      "nurturing",
+      "empathetic",
+      "protective",
+      "emotional",
+      "imaginative",
+      "tenacious"
+    ],
+    "strengths": [
+      "Empathy",
+      "loyalty",
+      "intuition",
+      "nurturing ability",
+      "emotional intelligence",
+      "creativity"
+    ],
+    "challenges": [
+      "Moodiness",
+      "over-sensitivity",
+      "clinginess",
+      "insecurity",
+      "pessimism",
+      "avoidance"
+    ],
+    "career_tendencies": [
+      "Healthcare",
+      "education",
+      "social work",
+      "real estate",
+      "hospitality",
+      "psychology"
+    ],
+    "love_style": "Deeply emotional and devoted. Needs security and emotional reciprocity. Very loyal and caring partner.",
+    "compatible_planets": [
+      "Moon",
+      "Jupiter"
+    ],
+    "spiritual_nature": "Deeply connected to ancestry and the divine feminine. Intuition is their spiritual compass.",
+    "keywords": [
+      "nurturing",
+      "home",
+      "water",
+      "emotion",
+      "intuition"
+    ]
+  },
+  "Leo": {
+    "dates": "July 23 - August 22",
+    "element": "Fire",
+    "ruling_planet": "Sun",
+    "personality": [
+      "Charismatic",
+      "generous",
+      "confident",
+      "dramatic",
+      "ambitious",
+      "loyal",
+      "creative"
+    ],
+    "strengths": [
+      "Leadership",
+      "generosity",
+      "confidence",
+      "creativity",
+      "charisma",
+      "warmth",
+      "loyalty"
+    ],
+    "challenges": [
+      "Arrogance",
+      "stubbornness",
+      "attention-seeking",
+      "inflexibility",
+      "vanity",
+      "domineering"
+    ],
+    "career_tendencies": [
+      "Entertainment",
+      "leadership roles",
+      "politics",
+      "teaching",
+      "design",
+      "luxury brands"
+    ],
+    "love_style": "Grand and romantic. Loves to be admired and to shower their partner with affection and loyalty.",
+    "compatible_planets": [
+      "Sun",
+      "Mars"
+    ],
+    "spiritual_nature": "Spirituality through self-expression and creative purpose. Feels divinely called to lead and inspire.",
+    "keywords": [
+      "royalty",
+      "sun",
+      "fire",
+      "confidence",
+      "creativity"
+    ]
+  },
+  "Virgo": {
+    "dates": "August 23 - September 22",
+    "element": "Earth",
+    "ruling_planet": "Mercury",
+    "personality": [
+      "Analytical",
+      "meticulous",
+      "practical",
+      "diligent",
+      "modest",
+      "reliable",
+      "observant"
+    ],
+    "strengths": [
+      "Attention to detail",
+      "analytical thinking",
+      "reliability",
+      "practicality",
+      "service-oriented"
+    ],
+    "challenges": [
+      "Over-critical",
+      "perfectionism",
+      "anxiety",
+      "worry",
+      "overthinking",
+      "overly cautious"
+    ],
+    "career_tendencies": [
+      "Medicine",
+      "data analysis",
+      "accounting",
+      "research",
+      "editing",
+      "nutrition",
+      "engineering"
+    ],
+    "love_style": "Acts of service over grand gestures. Shows love through care, attention, and reliability. Slow to trust.",
+    "compatible_planets": [
+      "Mercury",
+      "Saturn"
+    ],
+    "spiritual_nature": "Finds the divine in order, health, and service to others. Spiritual growth through discipline.",
+    "keywords": [
+      "precision",
+      "service",
+      "earth",
+      "analysis",
+      "health"
+    ]
+  },
+  "Libra": {
+    "dates": "September 23 - October 22",
+    "element": "Air",
+    "ruling_planet": "Venus",
+    "personality": [
+      "Diplomatic",
+      "charming",
+      "fair-minded",
+      "social",
+      "idealistic",
+      "gracious",
+      "indecisive"
+    ],
+    "strengths": [
+      "Diplomacy",
+      "social grace",
+      "fairness",
+      "cooperation",
+      "aesthetic sense",
+      "balance-seeking"
+    ],
+    "challenges": [
+      "Indecisiveness",
+      "people-pleasing",
+      "avoidance of conflict",
+      "superficiality",
+      "dependency"
+    ],
+    "career_tendencies": [
+      "Law",
+      "diplomacy",
+      "design",
+      "fashion",
+      "HR",
+      "counseling",
+      "public relations"
+    ],
+    "love_style": "Partnership-oriented. Seeks balance and harmony. Romantic and thoughtful. Struggles with commitment decisions.",
+    "compatible_planets": [
+      "Venus",
+      "Saturn"
+    ],
+    "spiritual_nature": "Seeks divine harmony and beauty. Spirituality expressed through relationships and aesthetic creation.",
+    "keywords": [
+      "balance",
+      "harmony",
+      "air",
+      "justice",
+      "beauty"
+    ]
+  },
+  "Scorpio": {
+    "dates": "October 23 - November 21",
+    "element": "Water",
+    "ruling_planet": "Mars",
+    "personality": [
+      "Intense",
+      "passionate",
+      "strategic",
+      "perceptive",
+      "determined",
+      "secretive",
+      "transformative"
+    ],
+    "strengths": [
+      "Depth",
+      "determination",
+      "resourcefulness",
+      "loyalty",
+      "perceptiveness",
+      "emotional power"
+    ],
+    "challenges": [
+      "Jealousy",
+      "obsession",
+      "secretiveness",
+      "manipulation",
+      "distrust",
+      "vindictiveness"
+    ],
+    "career_tendencies": [
+      "Investigation",
+      "psychology",
+      "surgery",
+      "research",
+      "finance",
+      "intelligence",
+      "occult"
+    ],
+    "love_style": "All-or-nothing. Deeply loyal and intensely passionate. Demands honesty and complete emotional depth.",
+    "compatible_planets": [
+      "Mars",
+      "Saturn"
+    ],
+    "spiritual_nature": "Drawn to the mysteries of life, death, and rebirth. Transformation is their spiritual path.",
+    "keywords": [
+      "transformation",
+      "depth",
+      "water",
+      "power",
+      "mystery"
+    ]
+  },
+  "Sagittarius": {
+    "dates": "November 22 - December 21",
+    "element": "Fire",
+    "ruling_planet": "Jupiter",
+    "personality": [
+      "Adventurous",
+      "philosophical",
+      "optimistic",
+      "freedom-loving",
+      "honest",
+      "enthusiastic",
+      "restless"
+    ],
+    "strengths": [
+      "Optimism",
+      "vision",
+      "honesty",
+      "curiosity",
+      "generosity",
+      "humor",
+      "open-mindedness"
+    ],
+    "challenges": [
+      "Tactlessness",
+      "overconfidence",
+      "inconsistency",
+      "impatience",
+      "carelessness",
+      "restlessness"
+    ],
+    "career_tendencies": [
+      "Travel",
+      "academia",
+      "law",
+      "philosophy",
+      "publishing",
+      "sports",
+      "spirituality"
+    ],
+    "love_style": "Fun and adventurous. Values freedom. Needs a partner who respects independence and loves exploration.",
+    "compatible_planets": [
+      "Jupiter",
+      "Sun"
+    ],
+    "spiritual_nature": "Philosophy and travel are spiritual acts. Seeks the meaning of existence through experience.",
+    "keywords": [
+      "adventure",
+      "freedom",
+      "fire",
+      "philosophy",
+      "expansion"
+    ]
+  },
+  "Capricorn": {
+    "dates": "December 22 - January 19",
+    "element": "Earth",
+    "ruling_planet": "Saturn",
+    "personality": [
+      "Disciplined",
+      "ambitious",
+      "responsible",
+      "patient",
+      "pragmatic",
+      "reserved",
+      "resourceful"
+    ],
+    "strengths": [
+      "Discipline",
+      "ambition",
+      "responsibility",
+      "patience",
+      "strategic thinking",
+      "reliability"
+    ],
+    "challenges": [
+      "Pessimism",
+      "rigidity",
+      "workaholism",
+      "coldness",
+      "condescension",
+      "fear of failure"
+    ],
+    "career_tendencies": [
+      "Corporate leadership",
+      "finance",
+      "government",
+      "architecture",
+      "engineering",
+      "management"
+    ],
+    "love_style": "Takes love seriously. Slow to open up but deeply committed. Practical expressions of love over romance.",
+    "compatible_planets": [
+      "Saturn",
+      "Mars"
+    ],
+    "spiritual_nature": "Mastery and legacy are sacred. Finds meaning through discipline, endurance, and building lasting things.",
+    "keywords": [
+      "ambition",
+      "discipline",
+      "earth",
+      "responsibility",
+      "mastery"
+    ]
+  },
+  "Aquarius": {
+    "dates": "January 20 - February 18",
+    "element": "Air",
+    "ruling_planet": "Saturn",
+    "personality": [
+      "Innovative",
+      "humanitarian",
+      "independent",
+      "intellectual",
+      "unconventional",
+      "progressive",
+      "detached"
+    ],
+    "strengths": [
+      "Innovation",
+      "humanitarianism",
+      "intellectual depth",
+      "independence",
+      "originality",
+      "vision"
+    ],
+    "challenges": [
+      "Emotional detachment",
+      "unpredictability",
+      "stubbornness",
+      "aloofness",
+      "rebelliousness"
+    ],
+    "career_tendencies": [
+      "Technology",
+      "science",
+      "activism",
+      "social work",
+      "innovation",
+      "research",
+      "futurism"
+    ],
+    "love_style": "Friendship first, romance second. Needs intellectual connection and personal freedom in relationships.",
+    "compatible_planets": [
+      "Saturn",
+      "Mercury"
+    ],
+    "spiritual_nature": "Spirituality through collective consciousness and service to humanity. Sees the universe as interconnected.",
+    "keywords": [
+      "innovation",
+      "humanity",
+      "air",
+      "freedom",
+      "vision"
+    ]
+  },
+  "Pisces": {
+    "dates": "February 19 - March 20",
+    "element": "Water",
+    "ruling_planet": "Jupiter",
+    "personality": [
+      "Compassionate",
+      "artistic",
+      "intuitive",
+      "dreamy",
+      "gentle",
+      "selfless",
+      "spiritual"
+    ],
+    "strengths": [
+      "Empathy",
+      "creativity",
+      "intuition",
+      "compassion",
+      "spiritual depth",
+      "adaptability"
+    ],
+    "challenges": [
+      "Over-idealism",
+      "escapism",
+      "indecisiveness",
+      "over-sensitivity",
+      "martyrdom",
+      "boundaries"
+    ],
+    "career_tendencies": [
+      "Arts",
+      "music",
+      "healing professions",
+      "spirituality",
+      "film",
+      "charity work",
+      "counseling"
+    ],
+    "love_style": "Deeply romantic and selfless. Loves unconditionally. Can lose themselves in relationships; needs grounded partner.",
+    "compatible_planets": [
+      "Jupiter",
+      "Moon"
+    ],
+    "spiritual_nature": "The most spiritually attuned sign. Dissolution of ego and oneness with the universe is their path.",
+    "keywords": [
+      "compassion",
+      "dreams",
+      "water",
+      "spirituality",
+      "transcendence"
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "Sun": {
+    "represents": [
+      "Identity",
+      "ego",
+      "self-expression",
+      "vitality",
+      "consciousness",
+      "willpower"
+    ],
+    "governs": [
+      "Soul purpose",
+      "career ambitions",
+      "authority",
+      "father figures",
+      "leadership"
+    ],
+    "positive_influence": "Boosts confidence, clarity of purpose, recognition, and leadership ability. Brings success in career and public life.",
+    "negative_influence": "Inflated ego, arrogance, burnout, conflicts with authority figures, and overexertion.",
+    "career_impact": "Favors leadership roles, government positions, management, politics, and entrepreneurship.",
+    "love_impact": "Brings warmth and loyalty but can cause dominance issues. Needs admiration and respect in relationships.",
+    "spiritual_impact": "The soul's journey. Sun transits push toward self-realization and authentic expression.",
+    "associated_signs": [
+      "Leo"
+    ],
+    "nature": "benefic",
+    "transit_effect": "Sun transiting your sign brings a period of heightened energy, visibility, and personal power.",
+    "keywords": [
+      "identity",
+      "power",
+      "vitality",
+      "soul",
+      "leadership",
+      "ego"
+    ]
+  },
+  "Moon": {
+    "represents": [
+      "Emotions",
+      "inner world",
+      "intuition",
+      "nurturing energy",
+      "subconscious",
+      "habits"
+    ],
+    "governs": [
+      "Mental peace",
+      "mother figures",
+      "home",
+      "emotional stability",
+      "memory",
+      "instincts"
+    ],
+    "positive_influence": "Emotional clarity, strong intuition, nurturing energy, creativity, and mental peace.",
+    "negative_influence": "Moodiness, anxiety, emotional instability, over-sensitivity, and attachment issues.",
+    "career_impact": "Supports careers in caregiving, hospitality, real estate, food, and creative arts.",
+    "love_impact": "Deep emotional bonding. Moon-influenced people love with great depth and need emotional security.",
+    "spiritual_impact": "Governs the inner life and dream state. Moon phases mark cycles of release and renewal.",
+    "associated_signs": [
+      "Cancer"
+    ],
+    "nature": "benefic",
+    "transit_effect": "Moon transiting your sign heightens emotional sensitivity and intuition for 2-3 days.",
+    "keywords": [
+      "emotion",
+      "intuition",
+      "nurturing",
+      "subconscious",
+      "home",
+      "cycles"
+    ]
+  },
+  "Mars": {
+    "represents": [
+      "Ambition",
+      "drive",
+      "assertiveness",
+      "conflict",
+      "energy",
+      "courage",
+      "desire"
+    ],
+    "governs": [
+      "Physical energy",
+      "aggression",
+      "competition",
+      "brothers",
+      "accidents",
+      "sexuality"
+    ],
+    "positive_influence": "High energy, courage, determination, athletic ability, and the drive to achieve goals.",
+    "negative_influence": "Anger, impulsiveness, accidents, conflicts, aggression, and reckless decisions.",
+    "career_impact": "Excels in military, sports, surgery, engineering, firefighting, and competitive fields.",
+    "love_impact": "Passionate and physical. Can cause conflict if unchecked. Drives desire and sexual attraction.",
+    "spiritual_impact": "Mars energy, when channeled, becomes the warrior spirit — disciplined, purposeful action.",
+    "associated_signs": [
+      "Aries",
+      "Scorpio"
+    ],
+    "nature": "malefic",
+    "transit_effect": "Mars transiting your sign fuels motivation and assertiveness but watch for impatience and conflict.",
+    "keywords": [
+      "action",
+      "courage",
+      "conflict",
+      "desire",
+      "energy",
+      "competition"
+    ]
+  },
+  "Venus": {
+    "represents": [
+      "Love",
+      "harmony",
+      "relationships",
+      "art",
+      "beauty",
+      "pleasure",
+      "luxury"
+    ],
+    "governs": [
+      "Romance",
+      "aesthetics",
+      "finances",
+      "creativity",
+      "sister figures",
+      "social charm"
+    ],
+    "positive_influence": "Attracts love, beauty, artistic inspiration, financial gain, and social harmony.",
+    "negative_influence": "Indulgence, vanity, laziness, over-dependence on others, and materialistic tendencies.",
+    "career_impact": "Favors arts, fashion, design, music, entertainment, beauty industry, and luxury brands.",
+    "love_impact": "The planet of love. Venus transits bring romantic opportunities, harmony, and emotional warmth.",
+    "spiritual_impact": "Beauty and love as spiritual paths. Venus teaches the soul to find the divine in connection.",
+    "associated_signs": [
+      "Taurus",
+      "Libra"
+    ],
+    "nature": "benefic",
+    "transit_effect": "Venus transiting your sign enhances charm, attractiveness, and opportunities in love and finances.",
+    "keywords": [
+      "love",
+      "beauty",
+      "harmony",
+      "art",
+      "luxury",
+      "relationships"
+    ]
+  },
+  "Mercury": {
+    "represents": [
+      "Communication",
+      "logic",
+      "travel",
+      "intelligence",
+      "analysis",
+      "commerce",
+      "learning"
+    ],
+    "governs": [
+      "Speech",
+      "writing",
+      "trade",
+      "siblings",
+      "short journeys",
+      "technology",
+      "nervous system"
+    ],
+    "positive_influence": "Sharp intellect, clear communication, strong analytical skills, and success in business.",
+    "negative_influence": "Nervousness, miscommunication, indecision, gossip, and mental overload.",
+    "career_impact": "Ideal for writing, journalism, teaching, IT, accounting, sales, and analytical roles.",
+    "love_impact": "Communication is the love language. Mercury-influenced people need mental connection in relationships.",
+    "spiritual_impact": "The messenger of the gods. Mercury connects earthly mind to higher wisdom through learning.",
+    "associated_signs": [
+      "Gemini",
+      "Virgo"
+    ],
+    "nature": "neutral",
+    "transit_effect": "Mercury retrograde causes communication delays and tech issues. Direct Mercury sharpens thinking.",
+    "keywords": [
+      "communication",
+      "intellect",
+      "logic",
+      "travel",
+      "learning",
+      "commerce"
+    ]
+  },
+  "Jupiter": {
+    "represents": [
+      "Wisdom",
+      "growth",
+      "fortune",
+      "knowledge",
+      "expansion",
+      "abundance",
+      "optimism"
+    ],
+    "governs": [
+      "Higher education",
+      "philosophy",
+      "religion",
+      "long journeys",
+      "children",
+      "luck",
+      "prosperity"
+    ],
+    "positive_influence": "Expansion, abundance, wisdom, spiritual growth, higher learning, and good fortune.",
+    "negative_influence": "Overconfidence, excess, laziness through over-reliance on luck, and over-indulgence.",
+    "career_impact": "Supports law, academia, spirituality, finance, publishing, travel, and advisory roles.",
+    "love_impact": "Brings generosity and warmth to relationships. Jupiter expands love and brings harmony.",
+    "spiritual_impact": "The guru planet. Jupiter governs higher wisdom, dharma, and spiritual expansion.",
+    "associated_signs": [
+      "Sagittarius",
+      "Pisces"
+    ],
+    "nature": "benefic",
+    "transit_effect": "Jupiter transiting your sign brings a year of growth, opportunity, and positive expansion.",
+    "keywords": [
+      "abundance",
+      "wisdom",
+      "growth",
+      "fortune",
+      "expansion",
+      "spirituality"
+    ]
+  },
+  "Saturn": {
+    "represents": [
+      "Discipline",
+      "responsibility",
+      "boundaries",
+      "lessons",
+      "karma",
+      "structure",
+      "time"
+    ],
+    "governs": [
+      "Hardship",
+      "endurance",
+      "elderly figures",
+      "limitations",
+      "longevity",
+      "justice",
+      "work ethic"
+    ],
+    "positive_influence": "Long-term success through discipline, mastery of skills, and strong structural foundations.",
+    "negative_influence": "Delays, depression, fear, heavy burdens, self-doubt, and feelings of restriction.",
+    "career_impact": "Rewards patience in law, government, administration, construction, and long-term ventures.",
+    "love_impact": "Serious and committed. Saturn relationships are built slowly but last. Teaches love through patience.",
+    "spiritual_impact": "Saturn is the great teacher. Its lessons, though hard, strip away illusion and reveal truth.",
+    "associated_signs": [
+      "Capricorn",
+      "Aquarius"
+    ],
+    "nature": "malefic",
+    "transit_effect": "Saturn transit (Sade Sati) brings a 7.5-year period of challenges and deep karmic lessons.",
+    "keywords": [
+      "discipline",
+      "karma",
+      "structure",
+      "lessons",
+      "time",
+      "responsibility"
+    ]
+  },
+  "Rahu": {
+    "represents": [
+      "Obsession",
+      "ambition",
+      "illusion",
+      "worldly desires",
+      "innovation",
+      "foreigners",
+      "technology"
+    ],
+    "governs": [
+      "Unconventional paths",
+      "sudden events",
+      "materialism",
+      "taboo",
+      "past life karma",
+      "mass media"
+    ],
+    "positive_influence": "Drives ambition and innovation. Brings sudden gains, fame, and out-of-the-box thinking.",
+    "negative_influence": "Illusion, addiction, obsession, deception, and insatiable material desires.",
+    "career_impact": "Favors technology, media, politics, foreign trade, and unconventional or disruptive careers.",
+    "love_impact": "Intense and obsessive attraction. Rahu-driven relationships are karmic and transformative.",
+    "spiritual_impact": "Rahu represents the soul's worldly desires — the lesson is to fulfill without losing oneself.",
+    "associated_signs": [
+      "Gemini",
+      "Virgo"
+    ],
+    "nature": "malefic",
+    "transit_effect": "Rahu transiting your sign brings 18 months of intense ambition, change, and karmic experiences.",
+    "keywords": [
+      "desire",
+      "illusion",
+      "ambition",
+      "karma",
+      "innovation",
+      "obsession"
+    ]
+  },
+  "Ketu": {
+    "represents": [
+      "Spirituality",
+      "detachment",
+      "past life wisdom",
+      "liberation",
+      "mysticism",
+      "introspection"
+    ],
+    "governs": [
+      "Moksha",
+      "isolation",
+      "occult",
+      "sudden losses",
+      "spiritual gifts",
+      "ancestors",
+      "renunciation"
+    ],
+    "positive_influence": "Deep spiritual insight, psychic abilities, past-life wisdom, and liberation from worldly cycles.",
+    "negative_influence": "Confusion, isolation, detachment from reality, sudden losses, and directionlessness.",
+    "career_impact": "Supports spirituality, astrology, research, medicine, and roles requiring deep introspection.",
+    "love_impact": "Brings karmic relationships. Ketu-influenced love is selfless but can feel distant or cold.",
+    "spiritual_impact": "Ketu is the moksha karaka — the planet of liberation. It dissolves ego toward enlightenment.",
+    "associated_signs": [
+      "Scorpio",
+      "Pisces"
+    ],
+    "nature": "malefic",
+    "transit_effect": "Ketu transit brings spiritual awakening, sudden detachment from worldly things, and inner growth.",
+    "keywords": [
+      "liberation",
+      "spirituality",
+      "detachment",
+      "mysticism",
+      "karma",
+      "past life"
+    ]
+  }
+}

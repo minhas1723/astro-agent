@@ -1,0 +1,247 @@
+# Spiritual Guidance Knowledge Base
+# astro-agent | RAG Knowledge Corpus
+# Format: [CATEGORY] followed by guidance lines
+# Categories: GENERAL, per zodiac sign, planetary influence, elemental, nakshatra
+
+[GENERAL]
+- Meditation can enhance inner balance and clarity when practiced consistently.
+- Focus on gratitude to attract more abundance and peace into your life.
+- Listen to your intuition — the universe is always guiding you, even in silence.
+- Spiritual growth rarely looks like progress from the inside — trust the process.
+- Your outer world is a mirror of your inner state — work within to change without.
+- Solitude is not loneliness; it is the sacred space where the soul replenishes itself.
+- Every challenge you face carries a lesson your soul specifically chose to learn.
+- Breathwork and conscious presence can dissolve anxiety that meditation alone cannot reach.
+- Service to others without expectation of return is one of the fastest paths to spiritual growth.
+- The present moment is the only place where true peace exists — return to it often.
+- Your body is a spiritual instrument — how you treat it reflects how you honor the divine within.
+- Dreams carry messages from the subconscious and the higher self — begin recording them.
+
+[ARIES]
+- Your spiritual path is one of courageous action — you find the divine by doing, not contemplating.
+- Meditation is challenging for your fire energy — try movement meditation, running, or martial arts.
+- Your soul lesson is learning patience and surrendering outcomes after bold action.
+- Service through leadership — using your drive to uplift others — is your highest spiritual expression.
+- Anger, when examined honestly, often reveals where your boundaries or values are being violated.
+- Silence and stillness, though uncomfortable, hold the breakthroughs your active mind cannot manufacture.
+- Your spiritual growth accelerates when you act from purpose rather than ego or impulse.
+- Spend time in nature — particularly near fire or in open, expansive landscapes — to restore your spirit.
+
+[TAURUS]
+- Your spiritual path runs through the body and the senses — nature, food, music, and beauty are sacred to you.
+- Gratitude practices come naturally to you and are among your most powerful spiritual tools.
+- Your soul lesson is the paradox of non-attachment — loving beauty and comfort without being enslaved by it.
+- Slow, embodied practices like yoga, gardening, or cooking as meditation align with your spiritual nature.
+- Earth rituals — planting, walking barefoot, tending to something living — reconnect you to the sacred.
+- Material abundance and spiritual abundance are not opposed for you — you teach others that the physical can be holy.
+- Resistance to change is your greatest spiritual obstacle — practice releasing one thing each month.
+- Breathe through stillness. Your spirit restores through rest, not striving.
+
+[GEMINI]
+- Your spiritual path is intellectual — truth-seeking, questioning, and the synthesis of ideas are sacred acts.
+- You find the divine in conversation, books, and the exchange of ideas with curious minds.
+- Your soul lesson is learning to move from knowing to being — wisdom embodied, not just understood.
+- Journaling is one of your most powerful spiritual practices — writing reveals what thinking conceals.
+- Meditation for you works best in short, focused bursts rather than long silent sits.
+- Be careful of spiritual bypassing — using knowledge of spiritual concepts to avoid emotional work.
+- Your gift is the ability to communicate spiritual ideas clearly to others — this is a sacred service.
+- Spend time in conscious silence to hear the deeper voice beneath the endless mental chatter.
+
+[CANCER]
+- Your spiritual path is deeply connected to the divine feminine, ancestry, and emotional healing.
+- Intuition is your primary spiritual faculty — it is not imagination, it is perception. Trust it.
+- Your soul lesson is learning to nurture yourself with the same devotion you give to others.
+- Water rituals — bathing with intention, swimming, sitting near water — are deeply restorative for your spirit.
+- Ancestral healing work may call to you — exploring family patterns is a spiritual act for Cancer souls.
+- Creating a sacred home environment — even one candle, one intentional corner — supports your daily practice.
+- Your empathy is a spiritual gift; learn to receive as well as give from that space.
+- The Moon is your spiritual clock — living in alignment with lunar cycles brings you deep peace.
+
+[LEO]
+- Your spiritual path is expressed through creativity, self-realization, and living as the fullest version of yourself.
+- Ego is not your enemy — unconscious ego is. Conscious self-expression in service of others is your dharma.
+- Your soul lesson is learning that love does not diminish when shared — it multiplies.
+- Creative practices — art, performance, writing, dance — are genuine spiritual acts for Leo souls.
+- Generosity without need for recognition is the spiritual test and the spiritual reward for your sign.
+- The Sun is your spiritual symbol — your practice is to shine authentically, not to perform.
+- Heart-opening meditations and loving-kindness practices resonate deeply with your spiritual nature.
+- You are here to inspire. When your work uplifts others, you are fulfilling your highest spiritual purpose.
+
+[VIRGO]
+- Your spiritual path runs through service, discernment, and the perfection of craft as a devotional act.
+- You find the divine in order, health, and the sacred geometry of a life well-organized.
+- Your soul lesson is learning to extend to yourself the compassion you so readily offer others.
+- The body is your spiritual text — how it responds to food, rest, and environment is intuitive guidance.
+- Perfectionism, when turned inward, becomes a spiritual block — practice self-forgiveness as a daily discipline.
+- Healing arts, herbalism, nutrition, and physical wellness are genuine spiritual vocations for Virgo souls.
+- Silent service — helping without announcement or reward — is your most natural form of prayer.
+- Mindfulness applied to daily tasks — eating, walking, working — is your most accessible spiritual practice.
+
+[LIBRA]
+- Your spiritual path is the path of relationship — you find the divine through authentic connection with others.
+- Beauty is sacred to you — art, music, poetry, and harmonious environments are genuine spiritual nourishment.
+- Your soul lesson is finding your own center so you can relate without losing yourself.
+- Justice and fairness are spiritual values for you — working toward equity in the world is your practice.
+- Meditation on balance — inhale and exhale, give and receive — grounds your naturally outward-focused energy.
+- Spend time in deliberate solitude; your growth accelerates when you discover who you are without a mirror.
+- Partnership with a spiritually aligned companion can become your greatest accelerant for inner growth.
+- Aesthetic spiritual practices — sacred art, mantra, devotional music — feed your soul most directly.
+
+[SCORPIO]
+- Your spiritual path is the deepest of all signs — death, rebirth, transformation, and the occult are your sacred territory.
+- You are not afraid of the dark — you are built to descend and return with wisdom others cannot access.
+- Your soul lesson is learning to forgive — not for others, but to free yourself from the past's weight.
+- Shadow work, depth psychology, and honest self-examination are the core of your spiritual practice.
+- You have natural psychic sensitivity — grounding practices protect your energy field.
+- Power over others is the spiritual trap for Scorpio — true power comes from mastery of the self.
+- Transformative crisis in your life is not punishment — it is the mechanism through which your soul evolves.
+- Silence and deep introspection are your most productive spiritual states — honor them unapologetically.
+
+[SAGITTARIUS]
+- Your spiritual path is philosophical — the search for meaning, truth, and the nature of existence is your sacred quest.
+- Travel and encountering diverse cultures are genuine spiritual pilgrimages for your soul.
+- Your soul lesson is learning that truth is not only found on the horizon — sometimes it is right where you stand.
+- Teaching and sharing your philosophical insights with others is a sacred act of Sagittarian service.
+- Avoid spiritual arrogance — every tradition has wisdom, and certainty is the enemy of genuine seeking.
+- Time in nature, particularly forests, mountains, and wide open landscapes, reconnects you to cosmic perspective.
+- Your optimism is a spiritual force — use it to uplift others even in your own moments of doubt.
+- Practices that combine movement and philosophy — long walks, contemplative hiking — are your ideal meditation.
+
+[CAPRICORN]
+- Your spiritual path is the path of mastery — discipline, endurance, and the slow building of something lasting.
+- You find the sacred in achievement, responsibility, and the integrity of a life built without shortcuts.
+- Your soul lesson is learning that rest and receptivity are not weaknesses — they are the other half of mastery.
+- Karmic awareness runs deep in Capricorn souls — you feel the weight of choices across time.
+- Ancestor veneration and honoring those who came before you resonates with your spiritual nature.
+- The mountain is your symbol — the climb is long, the view from the top is the reward, and the descent is wisdom.
+- Let go of the need to control outcomes — your job is to build well, not to guarantee results.
+- Structured spiritual practices — daily meditation at the same time, regular fasting, periodic retreats — suit you best.
+
+[AQUARIUS]
+- Your spiritual path is collective — you are here to serve humanity, not just to achieve personal enlightenment.
+- The interconnectedness of all beings is not a concept for you; it is something you feel with certainty.
+- Your soul lesson is learning to integrate emotional wisdom with your extraordinary intellectual vision.
+- Visionary practices — future-casting, collective intention-setting, community rituals — align with your nature.
+- Avoid spiritual detachment — the body, the heart, and the present moment are not obstacles to transcendence.
+- Humanitarian service is your most direct path to spiritual fulfilment — find where your unique vision meets real need.
+- Group meditation, collective prayer, and shared spiritual practice amplify your energy significantly.
+- The future you envision for humanity is a spiritual vision — work toward it as an act of devotion.
+
+[PISCES]
+- Your spiritual path is dissolution — the gradual, joyful release of the ego into something greater than itself.
+- You are the most spiritually porous sign — your sensitivity is your greatest gift and your greatest vulnerability.
+- Your soul lesson is maintaining a self while remaining open — being in the world without being dissolved by it.
+- Creative spiritual practices — devotional art, sacred music, poetry, dance — are your most direct lines to the divine.
+- Establish clear energetic boundaries — not walls, but membranes that allow you to be present without being overwhelmed.
+- Dreams, visions, and altered states carry genuine spiritual messages for Pisces souls — document them.
+- Service through compassion — healing, counseling, art — is your highest spiritual calling.
+- Spend time near water; it is your element and your spiritual mirror, reflecting the depths of who you are.
+
+[PLANET_SUN]
+- The Sun governs the soul's journey toward authentic self-expression and conscious identity.
+- Sun-activated spiritual phases call you to examine who you are beneath your roles and achievements.
+- Solar practices — morning sunlight, sun salutations, fire gazing — align your energy with the Sun's spiritual gifts.
+- Ego examination during Sun transits reveals where performance has replaced genuine being.
+- Your dharma — life's sacred purpose — is written in your Sun sign and activated by solar transits.
+
+[PLANET_MOON]
+- The Moon governs the inner world, the subconscious, and the emotional body's spiritual wisdom.
+- Lunar cycles are spiritual calendars — new moons for setting intentions, full moons for releasing what no longer serves.
+- Moon-influenced spiritual phases bring dreams, intuitions, and emotional truths to the surface for integration.
+- The shadow self — the parts of you hidden even from yourself — speaks loudest during full Moon phases.
+- Water rituals, journaling, and emotional release practices are most potent during Moon-activated phases.
+
+[PLANET_MERCURY]
+- Mercury governs the mind's connection to higher wisdom — the bridge between ordinary thought and divine intelligence.
+- Mercury-influenced spiritual phases are ideal for studying sacred texts, attending spiritual talks, and deep journaling.
+- The practice of mantra works powerfully under Mercury — sound and sacred language are Mercury's spiritual tools.
+- Intellectual understanding of spiritual concepts must be balanced with embodied experience — knowing is not enough.
+- Mercury retrograde is a powerful time for inner reflection, revisiting spiritual practices, and rethinking beliefs.
+- Teaching, writing, or communicating spiritual wisdom during Mercury-active phases carries exceptional resonance.
+
+[PLANET_SATURN]
+- Saturn is the planet of karma — it reveals exactly where your soul still has work to do.
+- Saturn spiritual phases are not punishments; they are accelerated classrooms for soul maturity.
+- Discipline, renunciation, and honest self-examination are Saturn's spiritual gifts.
+- What Saturn takes away was always blocking something more aligned — trust the stripping process.
+- Sade Sati (Saturn's 7.5-year transit) is among the most spiritually transformative periods a soul experiences.
+
+[PLANET_JUPITER]
+- Jupiter is the Guru planet — it expands spiritual awareness, wisdom, and connection to higher teachings.
+- Jupiter-activated phases are ideal for beginning a new spiritual practice, teacher, or path.
+- Gratitude and generosity during Jupiter transits amplify the blessings already flowing toward you.
+- Higher education, philosophy, and sacred texts carry exceptional resonance under Jupiter's influence.
+- Your spiritual understanding grows faster during Jupiter phases than at almost any other time.
+
+[PLANET_MARS]
+- Mars spiritual energy is the warrior's path — discipline, willpower, and the courage to face the self honestly.
+- Spiritual practices requiring physical energy — yoga, martial arts, fasting — are most potent under Mars.
+- Mars transits are ideal for cutting through spiritual stagnation with decisive action and renewed discipline.
+- The shadow side of Mars in spiritual life is spiritual aggression — forcing growth rather than allowing it.
+- Channel Mars energy into tapas — spiritual austerity and committed practice — for profound results.
+
+[PLANET_RAHU]
+- Rahu governs the soul's worldly desires and the karmic attachments that must be experienced before release.
+- Rahu phases bring fascination with the unconventional, the occult, and hidden knowledge.
+- Spiritual bypassing is the Rahu trap — using spiritual concepts to avoid confronting material and emotional reality.
+- Rahu's lesson is to pursue worldly experience fully, extract its wisdom, and then release the attachment.
+- Kundalini energy and sudden spiritual awakenings are associated with powerful Rahu transits.
+
+[PLANET_KETU]
+- Ketu is the moksha karaka — the planet whose ultimate gift is liberation from the cycle of rebirth.
+- Ketu phases bring detachment, spiritual depth, and a turning away from worldly desires that no longer satisfy.
+- Psychic sensitivity, past-life memories, and deep meditative states are heightened under Ketu's influence.
+- What Ketu removes was always binding you — meet its lessons with gratitude, not resistance.
+- Solitude, silent retreat, and inner pilgrimage are the most aligned practices during Ketu-activated phases.
+
+[PLANET_VENUS]
+- Venus governs the soul's relationship to beauty, love, and the divine as experienced through connection.
+- Devotional practices — bhakti yoga, sacred music, prayer through art — resonate deeply under Venus.
+- Venus spiritual phases invite examination of self-worth: do you believe you deserve the love you seek?
+- Beauty as a spiritual practice — creating, experiencing, and honoring beauty — is Venus's sacred teaching.
+- Relationships themselves become spiritual practices under Venus — love as a path to the divine.
+
+[NAKSHATRA_ASHWINI]
+- Ashwini souls are here to heal, initiate, and move swiftly into new beginnings without fear.
+- Your spiritual gift is the ability to bring fresh energy into stagnant situations.
+- Healing modalities — energy healing, herbalism, sound healing — resonate with your Nakshatra nature.
+- Your soul lesson is learning to complete what you begin before leaping to the next horizon.
+- The divine twins Ashwini Kumaras are your celestial guides — call on their energy for healing and renewal.
+
+[NAKSHATRA_BHARANI]
+- Bharani souls carry the energy of transformation — birth, death, and the sacred passage between worlds.
+- Your spiritual path involves confronting the shadow and discovering what lies on the other side of fear.
+- Your willpower, when spiritually directed, can accomplish what others deem impossible.
+- Practices involving breath, sexuality as sacred energy, and the transmutation of intense emotion serve you well.
+- Your soul lesson is learning to exercise power responsibly and with compassion.
+
+[NAKSHATRA_KRITTIKA]
+- Krittika souls are truth-seekers and protectors — you burn away illusion with unflinching clarity.
+- Fire rituals, candle meditation, and practices involving light and purification align with your nature.
+- Your spiritual gift is discernment — you see through deception, both in the world and within yourself.
+- Your soul lesson is learning to wield the sword of truth with compassion, not just precision.
+- Agni — the sacred fire — is your spiritual ally. Call on it in meditation for purification and clarity.
+
+[ELEMENT_FIRE]
+- Fire element souls (Aries, Leo, Sagittarius) find the divine through action, expression, and inspired purpose.
+- Movement meditation, fire gazing, and physical spiritual disciplines resonate with fire's nature.
+- The spiritual shadow of fire is spiritual arrogance — the assumption that one's path is the only path.
+- Fire souls are here to inspire — your spiritual growth and public expression of it serve others profoundly.
+
+[ELEMENT_EARTH]
+- Earth element souls (Taurus, Virgo, Capricorn) find the divine through the physical world, craft, and service.
+- Grounding practices — barefoot walking, gardening, embodied yoga — are spiritual acts for earth souls.
+- The spiritual shadow of earth is spiritual materialism — confusing acquisition with abundance.
+- Earth souls are here to demonstrate that the physical and the sacred are not separate.
+
+[ELEMENT_AIR]
+- Air element souls (Gemini, Libra, Aquarius) find the divine through ideas, connection, and the meeting of minds.
+- Mantra, sacred reading, philosophical inquiry, and conscious communication are air's spiritual practices.
+- The spiritual shadow of air is intellectualization — analyzing the divine instead of experiencing it.
+- Air souls are here to carry spiritual ideas across communities and bridge understanding between people.
+
+[ELEMENT_WATER]
+- Water element souls (Cancer, Scorpio, Pisces) find the divine through feeling, depth, and surrender.
+- Water rituals, dream work, emotional release, and contemplative prayer align with water's spiritual nature.
+- The spiritual shadow of water is dissolution without discernment — losing the self in spiritual experience.
+- Water souls are here to teach compassion, emotional truth, and the courage to feel everything fully.

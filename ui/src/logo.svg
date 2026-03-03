@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <title>Astro-Agent Logo</title>
+  <!-- Outer glow circle -->
+  <circle cx="40" cy="40" r="36" fill="url(#bgGrad)" opacity="0.15"/>
+  <!-- Orbit ring -->
+  <ellipse cx="40" cy="40" rx="30" ry="9" stroke="#C9A84C" stroke-width="1.5" opacity="0.5" transform="rotate(-20 40 40)"/>
+  <!-- Moon body -->
+  <path d="M44 20C35.16 20 28 27.16 28 36C28 44.84 35.16 52 44 52C39.58 52 36 44.84 36 36C36 27.16 39.58 20 44 20Z" fill="url(#moonGrad)"/>
+  <!-- Main star -->
+  <path d="M55 28L56.5 33H62L57.8 36.2L59.3 41L55 38L50.7 41L52.2 36.2L48 33H53.5L55 28Z" fill="#F7D96B"/>
+  <!-- Small sparkle top-left -->
+  <path d="M26 22L26.8 24.5H29.5L27.4 26L28.2 28.5L26 27L23.8 28.5L24.6 26L22.5 24.5H25.2L26 22Z" fill="#C9A84C" opacity="0.8"/>
+  <!-- Tiny dot sparkles -->
+  <circle cx="56" cy="52" r="1.5" fill="#F7D96B" opacity="0.7"/>
+  <circle cx="30" cy="48" r="1" fill="#F7D96B" opacity="0.5"/>
+  <circle cx="62" cy="38" r="1" fill="#C9A84C" opacity="0.6"/>
+  <defs>
+    <linearGradient id="moonGrad" x1="28" y1="20" x2="44" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C6BBF"/>
+      <stop offset="100%" stop-color="#3B2D7E"/>
+    </linearGradient>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C6BBF"/>
+      <stop offset="100%" stop-color="#1A1040"/>
+    </radialGradient>
+  </defs>
+</svg>

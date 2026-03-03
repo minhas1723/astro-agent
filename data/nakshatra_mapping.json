@@ -1,0 +1,1401 @@
+{
+  "Ashwini": {
+    "index": 1,
+    "degree_range": "0°00' - 13°20' Aries",
+    "ruling_planet": "Ketu",
+    "deity": "Ashwini Kumaras (divine twin healers)",
+    "symbol": "Horse's head",
+    "element": "Earth",
+    "guna": "Rajas",
+    "nature": "Light and Swift (Laghu/Kshipra)",
+    "summary": "Fast-moving, healing, beginnings.",
+    "personality": [
+      "Swift",
+      "energetic",
+      "pioneering",
+      "healing-oriented",
+      "independent",
+      "courageous"
+    ],
+    "strengths": [
+      "Natural healer",
+      "quick action",
+      "enthusiasm",
+      "courage",
+      "initiating ability"
+    ],
+    "challenges": [
+      "Impatience",
+      "restlessness",
+      "difficulty completing things",
+      "overconfidence"
+    ],
+    "career": [
+      "Medicine",
+      "healing arts",
+      "sports",
+      "military",
+      "horses and animal care",
+      "transportation"
+    ],
+    "spiritual_lesson": "Learn to complete what you begin. Swift action must be paired with follow-through.",
+    "mantra": "Om Ashwinibhyam Namah",
+    "keywords": [
+      "healing",
+      "speed",
+      "beginnings",
+      "horse",
+      "Ketu",
+      "pioneering"
+    ]
+  },
+  "Bharani": {
+    "index": 2,
+    "degree_range": "13°20' - 26°40' Aries",
+    "ruling_planet": "Venus",
+    "deity": "Yama (god of death and dharma)",
+    "symbol": "Yoni (womb)",
+    "element": "Earth",
+    "guna": "Rajas",
+    "nature": "Fierce (Ugra)",
+    "summary": "Strong willpower, transformation, carrying burdens.",
+    "personality": [
+      "Intense",
+      "disciplined",
+      "morally strong",
+      "creative",
+      "responsible",
+      "transformative"
+    ],
+    "strengths": [
+      "Willpower",
+      "determination",
+      "creativity",
+      "sense of justice",
+      "endurance"
+    ],
+    "challenges": [
+      "Stubbornness",
+      "over-seriousness",
+      "difficulty with change",
+      "carries too much"
+    ],
+    "career": [
+      "Law",
+      "judiciary",
+      "occult",
+      "medicine",
+      "management",
+      "creative arts",
+      "finance"
+    ],
+    "spiritual_lesson": "Exercise power with compassion. The weight you carry is your transformation.",
+    "mantra": "Om Yamaaya Namah",
+    "keywords": [
+      "transformation",
+      "willpower",
+      "birth",
+      "death",
+      "Venus",
+      "Yama"
+    ]
+  },
+  "Krittika": {
+    "index": 3,
+    "degree_range": "26°40' Aries - 10°00' Taurus",
+    "ruling_planet": "Sun",
+    "deity": "Agni (god of fire)",
+    "symbol": "Razor or flame",
+    "element": "Earth",
+    "guna": "Rajas",
+    "nature": "Mixed (sharp and soft)",
+    "summary": "Fiery energy, truth-seeker, protector.",
+    "personality": [
+      "Sharp",
+      "determined",
+      "ambitious",
+      "protective",
+      "honest",
+      "aggressive",
+      "disciplined"
+    ],
+    "strengths": [
+      "Courage",
+      "sharp intellect",
+      "leadership",
+      "protective nature",
+      "creative fire"
+    ],
+    "challenges": [
+      "Aggression",
+      "sharp tongue",
+      "overly critical",
+      "impatience",
+      "pride"
+    ],
+    "career": [
+      "Military",
+      "cooking",
+      "metallurgy",
+      "leadership",
+      "spiritual teaching",
+      "surgery"
+    ],
+    "spiritual_lesson": "Wield the sword of truth with compassion. Fire purifies — do not burn what you came to protect.",
+    "mantra": "Om Agnaye Namah",
+    "keywords": [
+      "fire",
+      "truth",
+      "protection",
+      "Sun",
+      "Agni",
+      "sharp"
+    ]
+  },
+  "Rohini": {
+    "index": 4,
+    "degree_range": "10°00' - 23°20' Taurus",
+    "ruling_planet": "Moon",
+    "deity": "Brahma (creator)",
+    "symbol": "Chariot or ox cart",
+    "element": "Earth",
+    "guna": "Rajas",
+    "nature": "Fixed (Sthira)",
+    "summary": "Beauty, creativity, sensuality, abundance.",
+    "personality": [
+      "Charming",
+      "artistic",
+      "sensual",
+      "grounded",
+      "magnetic",
+      "creative",
+      "nurturing"
+    ],
+    "strengths": [
+      "Creativity",
+      "beauty",
+      "material abundance",
+      "charisma",
+      "nurturing energy"
+    ],
+    "challenges": [
+      "Possessiveness",
+      "indulgence",
+      "jealousy",
+      "materialism",
+      "stubbornness"
+    ],
+    "career": [
+      "Arts",
+      "fashion",
+      "agriculture",
+      "real estate",
+      "music",
+      "food industry",
+      "beauty"
+    ],
+    "spiritual_lesson": "True abundance flows from gratitude and non-attachment, not from accumulation.",
+    "mantra": "Om Brahmaaye Namah",
+    "keywords": [
+      "beauty",
+      "abundance",
+      "Moon",
+      "creativity",
+      "Brahma",
+      "sensuality"
+    ]
+  },
+  "Mrigashira": {
+    "index": 5,
+    "degree_range": "23°20' Taurus - 6°40' Gemini",
+    "ruling_planet": "Mars",
+    "deity": "Soma (moon god, nectar of immortality)",
+    "symbol": "Deer's head",
+    "element": "Earth",
+    "guna": "Tamas",
+    "nature": "Soft and Gentle (Mridu)",
+    "summary": "Seeking, curiosity, gentle exploration.",
+    "personality": [
+      "Curious",
+      "gentle",
+      "restless",
+      "perceptive",
+      "sensitive",
+      "adaptable",
+      "wandering"
+    ],
+    "strengths": [
+      "Curiosity",
+      "gentleness",
+      "sensitivity",
+      "adaptability",
+      "perceptiveness"
+    ],
+    "challenges": [
+      "Indecisiveness",
+      "restlessness",
+      "fear",
+      "scattered energy",
+      "over-sensitivity"
+    ],
+    "career": [
+      "Research",
+      "travel",
+      "writing",
+      "teaching",
+      "gemology",
+      "textile",
+      "hospitality"
+    ],
+    "spiritual_lesson": "The seeker must eventually find stillness. What you search for is already within you.",
+    "mantra": "Om Somaaya Namah",
+    "keywords": [
+      "seeking",
+      "deer",
+      "curiosity",
+      "Mars",
+      "Soma",
+      "gentle"
+    ]
+  },
+  "Ardra": {
+    "index": 6,
+    "degree_range": "6°40' - 20°00' Gemini",
+    "ruling_planet": "Rahu",
+    "deity": "Rudra (storm god, fierce form of Shiva)",
+    "symbol": "Teardrop or diamond",
+    "element": "Water",
+    "guna": "Tamas",
+    "nature": "Sharp and Piercing (Tikshna)",
+    "summary": "Storms, transformation through destruction, raw power.",
+    "personality": [
+      "Intense",
+      "intellectual",
+      "rebellious",
+      "transformative",
+      "sharp-minded",
+      "emotional"
+    ],
+    "strengths": [
+      "Intellectual depth",
+      "ability to rebuild after destruction",
+      "sharp analysis",
+      "resilience"
+    ],
+    "challenges": [
+      "Destructive tendencies",
+      "emotional storms",
+      "restlessness",
+      "chaos",
+      "ruthlessness"
+    ],
+    "career": [
+      "Research",
+      "science",
+      "technology",
+      "medicine",
+      "activism",
+      "writing",
+      "occult"
+    ],
+    "spiritual_lesson": "The storm cleanses. Learn to rebuild with wisdom what destruction has cleared.",
+    "mantra": "Om Rudraaya Namah",
+    "keywords": [
+      "storm",
+      "Rahu",
+      "Rudra",
+      "transformation",
+      "intellect",
+      "destruction"
+    ]
+  },
+  "Punarvasu": {
+    "index": 7,
+    "degree_range": "20°00' Gemini - 3°20' Cancer",
+    "ruling_planet": "Jupiter",
+    "deity": "Aditi (mother of gods, goddess of infinity)",
+    "symbol": "Quiver of arrows or house",
+    "element": "Water",
+    "guna": "Rajas",
+    "nature": "Moveable (Chara)",
+    "summary": "Return, renewal, optimism, restoration of goodness.",
+    "personality": [
+      "Optimistic",
+      "generous",
+      "philosophical",
+      "adaptable",
+      "caring",
+      "wise",
+      "restless"
+    ],
+    "strengths": [
+      "Optimism",
+      "wisdom",
+      "generosity",
+      "resilience",
+      "philosophical depth",
+      "renewal"
+    ],
+    "challenges": [
+      "Inconsistency",
+      "over-expansion",
+      "naivety",
+      "inability to settle",
+      "scattered focus"
+    ],
+    "career": [
+      "Teaching",
+      "philosophy",
+      "spirituality",
+      "travel",
+      "writing",
+      "counseling",
+      "law"
+    ],
+    "spiritual_lesson": "Home is not a place but a state of being. You can return to your true self at any moment.",
+    "mantra": "Om Aditaye Namah",
+    "keywords": [
+      "renewal",
+      "Jupiter",
+      "Aditi",
+      "return",
+      "optimism",
+      "restoration"
+    ]
+  },
+  "Pushya": {
+    "index": 8,
+    "degree_range": "3°20' - 16°40' Cancer",
+    "ruling_planet": "Saturn",
+    "deity": "Brihaspati (Jupiter, guru of the gods)",
+    "symbol": "Cow's udder or lotus",
+    "element": "Water",
+    "guna": "Tamas",
+    "nature": "Light and Swift (Laghu/Kshipra)",
+    "summary": "Nourishment, wisdom, devotion, spiritual elevation.",
+    "personality": [
+      "Nurturing",
+      "devoted",
+      "wise",
+      "generous",
+      "disciplined",
+      "spiritual",
+      "protective"
+    ],
+    "strengths": [
+      "Nourishing others",
+      "spiritual wisdom",
+      "discipline",
+      "devotion",
+      "generosity"
+    ],
+    "challenges": [
+      "Rigidity",
+      "over-protectiveness",
+      "fanaticism",
+      "inflexibility",
+      "self-neglect"
+    ],
+    "career": [
+      "Spirituality",
+      "teaching",
+      "medicine",
+      "caretaking",
+      "government",
+      "food industry",
+      "counseling"
+    ],
+    "spiritual_lesson": "True nourishment flows from an overflowing cup, not an empty one. Fill yourself first.",
+    "mantra": "Om Brihaspataye Namah",
+    "keywords": [
+      "nourishment",
+      "Saturn",
+      "Brihaspati",
+      "devotion",
+      "wisdom",
+      "lotus"
+    ]
+  },
+  "Ashlesha": {
+    "index": 9,
+    "degree_range": "16°40' - 30°00' Cancer",
+    "ruling_planet": "Mercury",
+    "deity": "Nagas (serpent deities)",
+    "symbol": "Coiled serpent",
+    "element": "Water",
+    "guna": "Tamas",
+    "nature": "Sharp and Piercing (Tikshna)",
+    "summary": "Serpent wisdom, kundalini, penetrating insight, hidden power.",
+    "personality": [
+      "Perceptive",
+      "mysterious",
+      "intense",
+      "strategic",
+      "intuitive",
+      "hypnotic",
+      "secretive"
+    ],
+    "strengths": [
+      "Penetrating insight",
+      "strategic intelligence",
+      "healing ability",
+      "deep intuition"
+    ],
+    "challenges": [
+      "Manipulation",
+      "deception",
+      "possessiveness",
+      "secretiveness",
+      "vindictiveness"
+    ],
+    "career": [
+      "Psychology",
+      "occult",
+      "medicine",
+      "research",
+      "politics",
+      "espionage",
+      "healing arts"
+    ],
+    "spiritual_lesson": "The serpent's wisdom is sacred — use your insight to heal, not to control or harm.",
+    "mantra": "Om Nagaaya Namah",
+    "keywords": [
+      "serpent",
+      "Mercury",
+      "kundalini",
+      "wisdom",
+      "mystery",
+      "Naga"
+    ]
+  },
+  "Magha": {
+    "index": 10,
+    "degree_range": "0°00' - 13°20' Leo",
+    "ruling_planet": "Ketu",
+    "deity": "Pitrs (ancestral spirits)",
+    "symbol": "Royal throne or palanquin",
+    "element": "Water",
+    "guna": "Tamas",
+    "nature": "Fierce (Ugra)",
+    "summary": "Royal power, ancestral lineage, authority, legacy.",
+    "personality": [
+      "Regal",
+      "proud",
+      "authoritative",
+      "generous",
+      "loyal",
+      "traditional",
+      "ambitious"
+    ],
+    "strengths": [
+      "Natural authority",
+      "leadership",
+      "loyalty",
+      "generosity",
+      "respect for tradition"
+    ],
+    "challenges": [
+      "Pride",
+      "arrogance",
+      "elitism",
+      "resistance to change",
+      "living in the past"
+    ],
+    "career": [
+      "Government",
+      "politics",
+      "management",
+      "ancestral businesses",
+      "history",
+      "performing arts"
+    ],
+    "spiritual_lesson": "Honor your lineage but do not be imprisoned by it. Build your own worthy legacy.",
+    "mantra": "Om Pitribhyah Namah",
+    "keywords": [
+      "royalty",
+      "Ketu",
+      "ancestors",
+      "throne",
+      "legacy",
+      "authority"
+    ]
+  },
+  "Purva_Phalguni": {
+    "index": 11,
+    "degree_range": "13°20' - 26°40' Leo",
+    "ruling_planet": "Venus",
+    "deity": "Bhaga (god of prosperity and marital happiness)",
+    "symbol": "Front legs of bed or hammock",
+    "element": "Water",
+    "guna": "Rajas",
+    "nature": "Fierce (Ugra)",
+    "summary": "Pleasure, rest, creativity, marital happiness, abundance.",
+    "personality": [
+      "Creative",
+      "sensual",
+      "generous",
+      "charming",
+      "artistic",
+      "pleasure-seeking",
+      "social"
+    ],
+    "strengths": [
+      "Creativity",
+      "generosity",
+      "social grace",
+      "artistic talent",
+      "magnetism"
+    ],
+    "challenges": [
+      "Laziness",
+      "overindulgence",
+      "vanity",
+      "pleasure-seeking at the cost of responsibility"
+    ],
+    "career": [
+      "Entertainment",
+      "music",
+      "arts",
+      "luxury industry",
+      "hospitality",
+      "beauty",
+      "relationships"
+    ],
+    "spiritual_lesson": "Pleasure is sacred but not sufficient. Rest restores — but purpose fulfills.",
+    "mantra": "Om Bhagaaya Namah",
+    "keywords": [
+      "pleasure",
+      "Venus",
+      "Bhaga",
+      "creativity",
+      "rest",
+      "abundance"
+    ]
+  },
+  "Uttara_Phalguni": {
+    "index": 12,
+    "degree_range": "26°40' Leo - 10°00' Virgo",
+    "ruling_planet": "Sun",
+    "deity": "Aryaman (god of patronage, nobility, and friendship)",
+    "symbol": "Back legs of bed or cot",
+    "element": "Fire",
+    "guna": "Rajas",
+    "nature": "Fixed (Sthira)",
+    "summary": "Service, patronage, reliability, social responsibility.",
+    "personality": [
+      "Reliable",
+      "service-oriented",
+      "generous",
+      "noble",
+      "independent",
+      "practical",
+      "warm"
+    ],
+    "strengths": [
+      "Service to others",
+      "reliability",
+      "social responsibility",
+      "practicality",
+      "warmth"
+    ],
+    "challenges": [
+      "Stubbornness",
+      "over-independence",
+      "difficulty receiving help",
+      "self-righteousness"
+    ],
+    "career": [
+      "Social work",
+      "medicine",
+      "management",
+      "public service",
+      "counseling",
+      "education"
+    ],
+    "spiritual_lesson": "True nobility is expressed through service without expectation of return.",
+    "mantra": "Om Aryamaaye Namah",
+    "keywords": [
+      "service",
+      "Sun",
+      "Aryaman",
+      "nobility",
+      "reliability",
+      "social"
+    ]
+  },
+  "Hasta": {
+    "index": 13,
+    "degree_range": "10°00' - 23°20' Virgo",
+    "ruling_planet": "Moon",
+    "deity": "Savitar (the sun god of skills and craftsmanship)",
+    "symbol": "Hand or fist",
+    "element": "Fire",
+    "guna": "Rajas",
+    "nature": "Light and Swift (Laghu/Kshipra)",
+    "summary": "Skill, dexterity, craftsmanship, wit, manifestation.",
+    "personality": [
+      "Skillful",
+      "witty",
+      "resourceful",
+      "practical",
+      "clever",
+      "humorous",
+      "adaptable"
+    ],
+    "strengths": [
+      "Manual dexterity",
+      "quick wit",
+      "resourcefulness",
+      "practical intelligence",
+      "craftsmanship"
+    ],
+    "challenges": [
+      "Restlessness",
+      "cunning",
+      "manipulativeness",
+      "over-reliance on cleverness"
+    ],
+    "career": [
+      "Crafts",
+      "surgery",
+      "healing",
+      "writing",
+      "comedy",
+      "trade",
+      "magic arts",
+      "design"
+    ],
+    "spiritual_lesson": "Your hands are instruments of the divine. What you create with them is your prayer.",
+    "mantra": "Om Savitrae Namah",
+    "keywords": [
+      "hands",
+      "Moon",
+      "Savitar",
+      "skill",
+      "dexterity",
+      "manifestation"
+    ]
+  },
+  "Chitra": {
+    "index": 14,
+    "degree_range": "23°20' Virgo - 6°40' Libra",
+    "ruling_planet": "Mars",
+    "deity": "Tvashtar (divine architect and craftsman)",
+    "symbol": "Bright jewel or pearl",
+    "element": "Fire",
+    "guna": "Tamas",
+    "nature": "Soft and Gentle (Mridu)",
+    "summary": "Beauty, brilliance, creative vision, architecture of the soul.",
+    "personality": [
+      "Artistic",
+      "visionary",
+      "charismatic",
+      "perfectionistic",
+      "magnetic",
+      "creative",
+      "proud"
+    ],
+    "strengths": [
+      "Artistic brilliance",
+      "charisma",
+      "vision",
+      "architectural thinking",
+      "magnetic presence"
+    ],
+    "challenges": [
+      "Vanity",
+      "perfectionism",
+      "pride",
+      "impracticality",
+      "restlessness"
+    ],
+    "career": [
+      "Architecture",
+      "design",
+      "jewelry",
+      "arts",
+      "fashion",
+      "engineering",
+      "film"
+    ],
+    "spiritual_lesson": "The most beautiful creation is a life lived with integrity and authentic creative expression.",
+    "mantra": "Om Tvashtrae Namah",
+    "keywords": [
+      "beauty",
+      "Mars",
+      "Tvashtar",
+      "jewel",
+      "creativity",
+      "vision"
+    ]
+  },
+  "Swati": {
+    "index": 15,
+    "degree_range": "6°40' - 20°00' Libra",
+    "ruling_planet": "Rahu",
+    "deity": "Vayu (god of wind)",
+    "symbol": "Young plant shoot or coral",
+    "element": "Fire",
+    "guna": "Tamas",
+    "nature": "Moveable (Chara)",
+    "summary": "Independence, flexibility, wandering, spiritual freedom.",
+    "personality": [
+      "Independent",
+      "flexible",
+      "diplomatic",
+      "social",
+      "restless",
+      "curious",
+      "free-spirited"
+    ],
+    "strengths": [
+      "Adaptability",
+      "diplomacy",
+      "independence",
+      "social intelligence",
+      "flexibility"
+    ],
+    "challenges": [
+      "Instability",
+      "indecisiveness",
+      "inconsistency",
+      "scattered energy",
+      "lack of roots"
+    ],
+    "career": [
+      "Business",
+      "trade",
+      "diplomacy",
+      "law",
+      "travel",
+      "technology",
+      "education"
+    ],
+    "spiritual_lesson": "Like the wind, be present everywhere but attached nowhere. True freedom is inner stillness.",
+    "mantra": "Om Vaayave Namah",
+    "keywords": [
+      "wind",
+      "Rahu",
+      "Vayu",
+      "independence",
+      "flexibility",
+      "freedom"
+    ]
+  },
+  "Vishakha": {
+    "index": 16,
+    "degree_range": "20°00' Libra - 3°20' Scorpio",
+    "ruling_planet": "Jupiter",
+    "deity": "Indra and Agni (king of gods and fire god)",
+    "symbol": "Triumphal arch or potter's wheel",
+    "element": "Fire",
+    "guna": "Rajas",
+    "nature": "Mixed",
+    "summary": "Ambition, determination, achieving goals, purposeful striving.",
+    "personality": [
+      "Ambitious",
+      "determined",
+      "competitive",
+      "purposeful",
+      "intense",
+      "focused",
+      "goal-driven"
+    ],
+    "strengths": [
+      "Determination",
+      "focus",
+      "ambition",
+      "the ability to achieve long-term goals",
+      "resilience"
+    ],
+    "challenges": [
+      "Jealousy",
+      "envy",
+      "obsession with goals",
+      "ruthlessness",
+      "dissatisfaction"
+    ],
+    "career": [
+      "Politics",
+      "business",
+      "spiritual leadership",
+      "military",
+      "sports",
+      "research"
+    ],
+    "spiritual_lesson": "The goal is not the destination but the quality of purpose with which you pursue it.",
+    "mantra": "Om Indraagnibhyaam Namah",
+    "keywords": [
+      "ambition",
+      "Jupiter",
+      "Indra",
+      "Agni",
+      "goal",
+      "triumph"
+    ]
+  },
+  "Anuradha": {
+    "index": 17,
+    "degree_range": "3°20' - 16°40' Scorpio",
+    "ruling_planet": "Saturn",
+    "deity": "Mitra (god of friendship and devotion)",
+    "symbol": "Lotus flower or staff",
+    "element": "Fire",
+    "guna": "Tamas",
+    "nature": "Soft and Gentle (Mridu)",
+    "summary": "Devotion, friendship, cooperation, balance between material and spiritual.",
+    "personality": [
+      "Devoted",
+      "friendly",
+      "balanced",
+      "spiritual",
+      "cooperative",
+      "loyal",
+      "disciplined"
+    ],
+    "strengths": [
+      "Devotion",
+      "loyalty",
+      "spiritual discipline",
+      "ability to maintain friendships across distance"
+    ],
+    "challenges": [
+      "Over-attachment",
+      "jealousy",
+      "insecurity",
+      "emotional dependency",
+      "stubbornness"
+    ],
+    "career": [
+      "Spirituality",
+      "astrology",
+      "management",
+      "social work",
+      "counseling",
+      "travel abroad"
+    ],
+    "spiritual_lesson": "True devotion asks nothing in return. Love as an act of worship, not transaction.",
+    "mantra": "Om Mitraaya Namah",
+    "keywords": [
+      "devotion",
+      "Saturn",
+      "Mitra",
+      "lotus",
+      "friendship",
+      "cooperation"
+    ]
+  },
+  "Jyeshtha": {
+    "index": 18,
+    "degree_range": "16°40' - 30°00' Scorpio",
+    "ruling_planet": "Mercury",
+    "deity": "Indra (king of gods, protector of heroes)",
+    "symbol": "Round talisman or umbrella",
+    "element": "Air",
+    "guna": "Rajas",
+    "nature": "Sharp and Piercing (Tikshna)",
+    "summary": "Seniority, protection of the vulnerable, responsibility, hidden wisdom.",
+    "personality": [
+      "Protective",
+      "responsible",
+      "serious",
+      "wise",
+      "intense",
+      "authoritative",
+      "proud"
+    ],
+    "strengths": [
+      "Protective instinct",
+      "wisdom",
+      "leadership under pressure",
+      "resourcefulness"
+    ],
+    "challenges": [
+      "Pride",
+      "arrogance",
+      "over-protectiveness",
+      "jealousy",
+      "carrying too much alone"
+    ],
+    "career": [
+      "Military",
+      "government",
+      "management",
+      "occult sciences",
+      "medicine",
+      "law enforcement"
+    ],
+    "spiritual_lesson": "True seniority is earned through service, not claimed through rank. Protect without controlling.",
+    "mantra": "Om Indraaya Namah",
+    "keywords": [
+      "protection",
+      "Mercury",
+      "Indra",
+      "seniority",
+      "wisdom",
+      "responsibility"
+    ]
+  },
+  "Mula": {
+    "index": 19,
+    "degree_range": "0°00' - 13°20' Sagittarius",
+    "ruling_planet": "Ketu",
+    "deity": "Nirriti (goddess of dissolution and calamity)",
+    "symbol": "Bunch of roots or lion's tail",
+    "element": "Air",
+    "guna": "Tamas",
+    "nature": "Sharp and Piercing (Tikshna)",
+    "summary": "Root cause investigation, dissolution of the old, going to the core of things.",
+    "personality": [
+      "Investigative",
+      "philosophical",
+      "intense",
+      "transformative",
+      "truth-seeking",
+      "rooted"
+    ],
+    "strengths": [
+      "Root-cause analysis",
+      "philosophical depth",
+      "ability to rebuild from nothing",
+      "truth-seeking"
+    ],
+    "challenges": [
+      "Destruction of own foundations",
+      "instability",
+      "nihilism",
+      "difficulty with attachment"
+    ],
+    "career": [
+      "Research",
+      "philosophy",
+      "medicine",
+      "occult",
+      "agriculture",
+      "mining",
+      "investigation"
+    ],
+    "spiritual_lesson": "To find the truth, you must be willing to uproot everything false. Destruction precedes creation.",
+    "mantra": "Om Nirritaye Namah",
+    "keywords": [
+      "roots",
+      "Ketu",
+      "Nirriti",
+      "dissolution",
+      "investigation",
+      "foundation"
+    ]
+  },
+  "Purva_Ashadha": {
+    "index": 20,
+    "degree_range": "13°20' - 26°40' Sagittarius",
+    "ruling_planet": "Venus",
+    "deity": "Apas (water goddess, purification)",
+    "symbol": "Elephant's tusk or fan",
+    "element": "Air",
+    "guna": "Rajas",
+    "nature": "Fierce (Ugra)",
+    "summary": "Invincibility, early victory, purification through struggle.",
+    "personality": [
+      "Ambitious",
+      "proud",
+      "philosophical",
+      "independent",
+      "optimistic",
+      "persuasive"
+    ],
+    "strengths": [
+      "Invincible spirit",
+      "philosophical vision",
+      "purification ability",
+      "persuasion"
+    ],
+    "challenges": [
+      "Overconfidence",
+      "argumentativeness",
+      "inability to accept defeat",
+      "inflexibility"
+    ],
+    "career": [
+      "Law",
+      "philosophy",
+      "travel",
+      "water-related industries",
+      "teaching",
+      "military",
+      "publishing"
+    ],
+    "spiritual_lesson": "True invincibility comes from inner purity, not from never losing.",
+    "mantra": "Om Apaaye Namah",
+    "keywords": [
+      "invincibility",
+      "Venus",
+      "Apas",
+      "water",
+      "victory",
+      "purification"
+    ]
+  },
+  "Uttara_Ashadha": {
+    "index": 21,
+    "degree_range": "26°40' Sagittarius - 10°00' Capricorn",
+    "ruling_planet": "Sun",
+    "deity": "Vishvedevas (universal gods)",
+    "symbol": "Elephant's tusk or small cot",
+    "element": "Air",
+    "guna": "Rajas",
+    "nature": "Fixed (Sthira)",
+    "summary": "Final victory, universal principles, lasting achievement.",
+    "personality": [
+      "Principled",
+      "responsible",
+      "patient",
+      "noble",
+      "honest",
+      "determined",
+      "disciplined"
+    ],
+    "strengths": [
+      "Principled leadership",
+      "lasting achievements",
+      "patience",
+      "universal values",
+      "nobility"
+    ],
+    "challenges": [
+      "Stubbornness",
+      "over-seriousness",
+      "difficulty adapting",
+      "isolation",
+      "perfectionism"
+    ],
+    "career": [
+      "Military leadership",
+      "government",
+      "judiciary",
+      "philosophy",
+      "spirituality",
+      "management"
+    ],
+    "spiritual_lesson": "True victory is not over others but over the lesser self. What you build must outlast you.",
+    "mantra": "Om Vishvedebhyah Namah",
+    "keywords": [
+      "victory",
+      "Sun",
+      "Vishvedevas",
+      "principles",
+      "lasting",
+      "noble"
+    ]
+  },
+  "Shravana": {
+    "index": 22,
+    "degree_range": "10°00' - 23°20' Capricorn",
+    "ruling_planet": "Moon",
+    "deity": "Vishnu (the preserver)",
+    "symbol": "Ear or three footsteps",
+    "element": "Air",
+    "guna": "Rajas",
+    "nature": "Moveable (Chara)",
+    "summary": "Listening, learning, connecting, preserving wisdom.",
+    "personality": [
+      "Perceptive",
+      "learned",
+      "communicative",
+      "organized",
+      "wise",
+      "spiritual",
+      "patient"
+    ],
+    "strengths": [
+      "Deep listening",
+      "learning ability",
+      "communication",
+      "organizational skill",
+      "wisdom"
+    ],
+    "challenges": [
+      "Gossip",
+      "over-attachment to knowledge",
+      "listening without acting",
+      "rigid thinking"
+    ],
+    "career": [
+      "Education",
+      "media",
+      "counseling",
+      "music",
+      "language",
+      "travel",
+      "spirituality"
+    ],
+    "spiritual_lesson": "Wisdom begins with listening. The most profound truths are heard, not spoken.",
+    "mantra": "Om Vishnavae Namah",
+    "keywords": [
+      "listening",
+      "Moon",
+      "Vishnu",
+      "ear",
+      "learning",
+      "preservation"
+    ]
+  },
+  "Dhanishta": {
+    "index": 23,
+    "degree_range": "23°20' Capricorn - 6°40' Aquarius",
+    "ruling_planet": "Mars",
+    "deity": "Ashta Vasus (eight elemental gods of abundance)",
+    "symbol": "Drum or flute",
+    "element": "Ether",
+    "guna": "Tamas",
+    "nature": "Moveable (Chara)",
+    "summary": "Abundance, music, rhythm, fame, symphonic living.",
+    "personality": [
+      "Ambitious",
+      "musical",
+      "rhythmic",
+      "wealthy",
+      "generous",
+      "social",
+      "energetic"
+    ],
+    "strengths": [
+      "Ability to attract abundance",
+      "musical talent",
+      "social energy",
+      "generosity",
+      "fame"
+    ],
+    "challenges": [
+      "Marital challenges",
+      "delay in relationships",
+      "excessive ambition",
+      "ego"
+    ],
+    "career": [
+      "Music",
+      "dance",
+      "military",
+      "management",
+      "real estate",
+      "entertainment",
+      "sports"
+    ],
+    "spiritual_lesson": "Life itself is a symphony. When you live in rhythm with your true nature, abundance follows.",
+    "mantra": "Om Vsubhyah Namah",
+    "keywords": [
+      "abundance",
+      "Mars",
+      "Ashta Vasus",
+      "music",
+      "drum",
+      "fame"
+    ]
+  },
+  "Shatabhisha": {
+    "index": 24,
+    "degree_range": "6°40' - 20°00' Aquarius",
+    "ruling_planet": "Rahu",
+    "deity": "Varuna (god of cosmic order, water, and healing)",
+    "symbol": "Empty circle or 100 stars",
+    "element": "Ether",
+    "guna": "Tamas",
+    "nature": "Moveable (Chara)",
+    "summary": "Healing, mysticism, solitude, cosmic consciousness.",
+    "personality": [
+      "Mystical",
+      "independent",
+      "healing-oriented",
+      "reclusive",
+      "philosophical",
+      "scientific"
+    ],
+    "strengths": [
+      "Healing ability",
+      "mystical insight",
+      "scientific thinking",
+      "independence",
+      "depth"
+    ],
+    "challenges": [
+      "Isolation",
+      "secretiveness",
+      "stubbornness",
+      "emotional distance",
+      "escapism"
+    ],
+    "career": [
+      "Medicine",
+      "astrology",
+      "research",
+      "technology",
+      "occult sciences",
+      "healing arts"
+    ],
+    "spiritual_lesson": "The circle is empty so it can contain everything. Emptiness is the beginning of wholeness.",
+    "mantra": "Om Varunaaya Namah",
+    "keywords": [
+      "healing",
+      "Rahu",
+      "Varuna",
+      "circle",
+      "mysticism",
+      "solitude"
+    ]
+  },
+  "Purva_Bhadrapada": {
+    "index": 25,
+    "degree_range": "20°00' Aquarius - 3°20' Pisces",
+    "ruling_planet": "Jupiter",
+    "deity": "Aja Ekapada (one-footed serpent or fire dragon)",
+    "symbol": "Sword or two-faced man",
+    "element": "Ether",
+    "guna": "Rajas",
+    "nature": "Fierce (Ugra)",
+    "summary": "Passionate transformation, burning away the impure, two-faced nature of reality.",
+    "personality": [
+      "Intense",
+      "passionate",
+      "otherworldly",
+      "transformative",
+      "eccentric",
+      "visionary"
+    ],
+    "strengths": [
+      "Transformative power",
+      "passion",
+      "visionary thinking",
+      "ability to transcend ordinary life"
+    ],
+    "challenges": [
+      "Eccentricity",
+      "extremism",
+      "detachment from reality",
+      "anger",
+      "instability"
+    ],
+    "career": [
+      "Occult",
+      "astrology",
+      "research",
+      "spirituality",
+      "writing",
+      "unconventional fields"
+    ],
+    "spiritual_lesson": "The fire burns what is false to reveal what is eternal. Let it consume your limitations.",
+    "mantra": "Om Aja Ekapaadaaya Namah",
+    "keywords": [
+      "transformation",
+      "Jupiter",
+      "fire",
+      "sword",
+      "passion",
+      "transcendence"
+    ]
+  },
+  "Uttara_Bhadrapada": {
+    "index": 26,
+    "degree_range": "3°20' - 16°40' Pisces",
+    "ruling_planet": "Saturn",
+    "deity": "Ahir Budhnya (serpent of the deep waters and deep sky)",
+    "symbol": "Twins or back legs of funeral cot",
+    "element": "Ether",
+    "guna": "Tamas",
+    "nature": "Fixed (Sthira)",
+    "summary": "Deep wisdom, compassion, rain after drought, spiritual depth.",
+    "personality": [
+      "Wise",
+      "patient",
+      "compassionate",
+      "deeply spiritual",
+      "calm",
+      "introspective",
+      "generous"
+    ],
+    "strengths": [
+      "Deep wisdom",
+      "compassion",
+      "patience",
+      "ability to bring rain after drought",
+      "endurance"
+    ],
+    "challenges": [
+      "Laziness",
+      "over-spiritualization",
+      "detachment",
+      "over-idealism",
+      "slow action"
+    ],
+    "career": [
+      "Spirituality",
+      "teaching",
+      "healing",
+      "research",
+      "counseling",
+      "occult",
+      "writing"
+    ],
+    "spiritual_lesson": "Wisdom without compassion is knowledge. Compassion without wisdom is sentiment. Seek both.",
+    "mantra": "Om Ahir Budhnyaaya Namah",
+    "keywords": [
+      "wisdom",
+      "Saturn",
+      "serpent",
+      "compassion",
+      "depth",
+      "rain"
+    ]
+  },
+  "Revati": {
+    "index": 27,
+    "degree_range": "16°40' - 30°00' Pisces",
+    "ruling_planet": "Mercury",
+    "deity": "Pushan (nourisher, protector of travelers and animals)",
+    "symbol": "Fish or drum",
+    "element": "Ether",
+    "guna": "Sattvic",
+    "nature": "Soft and Gentle (Mridu)",
+    "summary": "Journey's end, nourishment, completion, transcendence.",
+    "personality": [
+      "Compassionate",
+      "nurturing",
+      "spiritual",
+      "artistic",
+      "sensitive",
+      "transcendent",
+      "gentle"
+    ],
+    "strengths": [
+      "Compassion",
+      "artistic talent",
+      "spiritual depth",
+      "nurturing ability",
+      "completion energy"
+    ],
+    "challenges": [
+      "Over-sensitivity",
+      "impracticality",
+      "over-idealism",
+      "difficulty with harsh realities"
+    ],
+    "career": [
+      "Arts",
+      "music",
+      "healing",
+      "spirituality",
+      "animal care",
+      "travel",
+      "charity work"
+    ],
+    "spiritual_lesson": "You are the completion of the zodiac's journey. Your purpose is to illuminate the path home for others.",
+    "mantra": "Om Pushnae Namah",
+    "keywords": [
+      "completion",
+      "Mercury",
+      "Pushan",
+      "fish",
+      "transcendence",
+      "nourishment"
+    ]
+  }
+}

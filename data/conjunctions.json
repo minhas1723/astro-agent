@@ -1,0 +1,230 @@
+[
+  {
+    "planets": ["Sun", "Moon"],
+    "type": "Benefic",
+    "summary": "Conjunction of Sun and Moon creates Amavasya (new moon) energy — a powerful blend of soul (Sun) and mind (Moon).",
+    "positive_traits": [
+      "Emotional balance and mental clarity aligned with personal purpose.",
+      "Strong leadership qualities combined with nurturing ability.",
+      "Natural vitality and creative self-expression."
+    ],
+    "negative_traits": [
+      "Overemphasis on ego and emotions blurring judgment.",
+      "Difficulty separating feelings from decision-making.",
+      "Tendency to seek excessive external validation."
+    ],
+    "career_implication": "Suits roles combining authority with emotional intelligence — management, counseling, public service.",
+    "love_implication": "Deep personal identification with a partner. Risk of losing independence in relationships.",
+    "spiritual_implication": "Soul and mind aligned, creating powerful manifestation ability when purpose is clear.",
+    "keywords": ["Sun Moon conjunction", "Amavasya", "soul mind", "leadership nurturing"]
+  },
+  {
+    "planets": ["Sun", "Saturn"],
+    "type": "Malefic",
+    "summary": "Conjunction of Sun (ego, authority) and Saturn (discipline, karma) creates tension between ambition and limitation — Shrapit Yoga potential.",
+    "positive_traits": [
+      "Strong discipline and determination toward long-term goals.",
+      "Potential for exceptional achievement through sustained effort.",
+      "Increased maturity, responsibility, and grounded ambition."
+    ],
+    "negative_traits": [
+      "Clashes between ego (Sun) and limitations (Saturn) causing inner conflict.",
+      "Delays and obstacles, particularly with authority figures.",
+      "Tendency toward pessimism, self-doubt, and fear of failure."
+    ],
+    "career_implication": "Succeeds in government, law, and long-term structured careers where patience is rewarded.",
+    "love_implication": "Serious in relationships but struggles with warmth and openness. Fear of rejection inhibits connection.",
+    "spiritual_implication": "The hardest karma yoga — finding self-worth independent of achievement. Service as liberation.",
+    "keywords": ["Sun Saturn conjunction", "karma", "discipline ego", "Shrapit Yoga", "authority delay"]
+  },
+  {
+    "planets": ["Moon", "Jupiter"],
+    "type": "Benefic",
+    "summary": "Conjunction of Moon and Jupiter — Gaja Kesari Yoga potential. Wisdom and emotional intelligence amplified.",
+    "positive_traits": [
+      "Abundance of wisdom, emotional intelligence, and philosophical depth.",
+      "Strong nurturing instincts, generosity, and spiritual growth.",
+      "Natural optimism and genuine warmth in relationships."
+    ],
+    "negative_traits": [
+      "Overindulgence in comforts and emotional luxury.",
+      "Emotional dependency on others for fulfillment.",
+      "Tendency to overlook practical responsibilities."
+    ],
+    "career_implication": "Teaching, counseling, philosophy, law — roles where wisdom and emotional connection drive impact.",
+    "love_implication": "Deeply loving, generous, and spiritually inclined partners. May over-give in relationships.",
+    "spiritual_implication": "The mother-guru energy. Deep devotion and the ability to nurture others' spiritual paths.",
+    "keywords": ["Moon Jupiter conjunction", "Gaja Kesari", "wisdom emotion", "generosity", "nurturing"]
+  },
+  {
+    "planets": ["Mars", "Venus"],
+    "type": "Neutral",
+    "summary": "Conjunction of Mars (desire, drive) and Venus (love, beauty) creates intense creative and romantic energy.",
+    "positive_traits": [
+      "Passionate, creative, and artistically prolific energy.",
+      "Strong romantic drive with ability to take bold action in love.",
+      "Balance between assertiveness (Mars) and harmony (Venus)."
+    ],
+    "negative_traits": [
+      "Impulsive decisions in love and relationships driven by desire.",
+      "Overemphasis on physical and sensual pleasure.",
+      "Struggles between assertiveness and the desire to maintain peace."
+    ],
+    "career_implication": "Arts, entertainment, creative entrepreneurship, fashion, and any field combining passion with aesthetics.",
+    "love_implication": "Intensely romantic and passionate but can be volatile. Love languages are physical and creative.",
+    "spiritual_implication": "Transmuting desire into devotion — the tantric path of sanctifying attraction.",
+    "keywords": ["Mars Venus conjunction", "passion creativity", "romance drive", "desire beauty"]
+  },
+  {
+    "planets": ["Mars", "Saturn"],
+    "type": "Malefic",
+    "summary": "Conjunction of Mars (action) and Saturn (restriction) — frustration of energy leading to explosive tension or extraordinary discipline.",
+    "positive_traits": [
+      "Ability to persevere through extreme challenges with grit.",
+      "Strategic, disciplined approach to action and execution.",
+      "Long-term goal achievement through sustained, controlled effort."
+    ],
+    "negative_traits": [
+      "Intense frustration from conflict between drive (Mars) and restriction (Saturn).",
+      "Suppressed anger that erupts unpredictably.",
+      "Tendency toward resentment, cynicism, and harsh self-criticism."
+    ],
+    "career_implication": "Engineering, military, athletics — fields where controlled aggression and discipline produce mastery.",
+    "love_implication": "Difficulty expressing vulnerability. May create distance through alternating intensity and withdrawal.",
+    "spiritual_implication": "Tapas — spiritual austerity through restraint of desire and disciplined action without attachment.",
+    "keywords": ["Mars Saturn conjunction", "frustration discipline", "controlled action", "suppressed anger"]
+  },
+  {
+    "planets": ["Jupiter", "Venus"],
+    "type": "Benefic",
+    "summary": "Conjunction of Jupiter (wisdom, expansion) and Venus (love, beauty) — one of the most blessed combinations for prosperity and relationships.",
+    "positive_traits": [
+      "Deep appreciation for art, beauty, and spiritual refinement.",
+      "Generous, warm, and spiritually grounded in love.",
+      "Financial abundance and attraction of luxury through wisdom."
+    ],
+    "negative_traits": [
+      "Tendency to overindulge in pleasures of the senses.",
+      "Difficulty setting boundaries in relationships due to excessive generosity.",
+      "Overoptimism in financial and romantic matters."
+    ],
+    "career_implication": "Law, finance, arts, luxury, advisory roles — any field where wisdom and aesthetics combine.",
+    "love_implication": "Ideal combination for lasting, harmonious, spiritually rich partnerships. Deeply devoted.",
+    "spiritual_implication": "Bhakti (devotion) and beauty as spiritual paths. Finding the divine in love and creation.",
+    "keywords": ["Jupiter Venus conjunction", "prosperity love", "abundance beauty", "generosity wisdom"]
+  },
+  {
+    "planets": ["Rahu", "Moon"],
+    "type": "Malefic",
+    "summary": "Conjunction of Rahu and Moon — can cause Grahan Dosha. Emotional intensity, obsession, and imaginative power heightened.",
+    "positive_traits": [
+      "Exceptional imagination and unconventional creative thinking.",
+      "Strong inclination toward innovation, technology, and mysticism.",
+      "Potential for success in fields that require out-of-the-box visioning."
+    ],
+    "negative_traits": [
+      "Emotional instability, mental fog, and psychic confusion.",
+      "Tendency toward obsessive thinking and irrational fears.",
+      "Susceptibility to illusions, addictions, and emotional manipulation."
+    ],
+    "career_implication": "Technology, AI, media, occult arts, or any field at the cutting edge of the unknown.",
+    "love_implication": "Intense, often karmic romantic bonds. May obsess over partners or attract karmic entanglements.",
+    "spiritual_implication": "The Grahan path — dark night of the soul leading to profound illumination if navigated consciously.",
+    "keywords": ["Rahu Moon conjunction", "Grahan Dosha", "obsession emotion", "psychic", "illusion"]
+  },
+  {
+    "planets": ["Ketu", "Jupiter"],
+    "type": "Benefic",
+    "summary": "Conjunction of Ketu (liberation, past life) and Jupiter (wisdom, dharma) — deep spiritual wisdom and detachment from worldly desire.",
+    "positive_traits": [
+      "Profound spiritual insight and intuitive philosophical understanding.",
+      "Genuine wisdom and natural detachment from material pursuits.",
+      "Strong past-life spiritual merit (Purva Punya) expressed through wisdom."
+    ],
+    "negative_traits": [
+      "Neglect of material responsibilities in favor of spiritual pursuits.",
+      "Difficulty relating to others at a practical, everyday level.",
+      "Overemphasis on esoteric knowledge while avoiding emotional engagement."
+    ],
+    "career_implication": "Spiritual teaching, research, astrology, philosophy, and any field requiring deep-pattern wisdom.",
+    "love_implication": "Spiritually aligned but emotionally distant. Partnerships need shared spiritual orientation to work.",
+    "spiritual_implication": "Jnana (knowledge) combined with Ketu's moksha energy — a powerful combination for liberation.",
+    "keywords": ["Ketu Jupiter conjunction", "spiritual wisdom", "detachment dharma", "past life merit"]
+  },
+  {
+    "planets": ["Mars", "Ketu"],
+    "type": "Malefic",
+    "summary": "Conjunction of Mars (action, aggression) and Ketu (detachment, past life) — fearless, reckless, spiritually driven warrior energy.",
+    "positive_traits": [
+      "Fearless action-orientation with no concern for personal safety.",
+      "Exceptional potential in martial arts, defense, surgery, or engineering.",
+      "Ability to tackle any challenge without hesitation or doubt."
+    ],
+    "negative_traits": [
+      "Recklessness and impulsive actions without foresight.",
+      "Intense, sometimes uncontrollable aggressive energy.",
+      "Difficulty channeling energy productively — scattered or destructive."
+    ],
+    "career_implication": "Military, martial arts, surgery, deep research, and roles requiring fearless risk-taking.",
+    "love_implication": "Independent, sometimes detached in love. May choose freedom over commitment instinctively.",
+    "spiritual_implication": "The warrior-monk path — fierce renunciation of outcome. Action without attachment.",
+    "keywords": ["Mars Ketu conjunction", "fearless warrior", "reckless action", "spiritually driven"]
+  },
+  {
+    "planets": ["Saturn", "Rahu"],
+    "type": "Malefic",
+    "summary": "Conjunction of Saturn (karma, restriction) and Rahu (obsession, materialism) — intense karmic entanglement with worldly desire and societal structures.",
+    "positive_traits": [
+      "Exceptional ambition and strategic long-term thinking.",
+      "Potential for success in unconventional or disruptive career paths.",
+      "Resilience and tenacity in challenging societal structures."
+    ],
+    "negative_traits": [
+      "Strong tendency toward manipulative or unethical practices for gain.",
+      "Obsessive drive for material success at the cost of integrity.",
+      "Emotional isolation and a deep sense of alienation."
+    ],
+    "career_implication": "Politics, corporate strategy, technology disruption, and fields requiring radical persistence.",
+    "love_implication": "Difficulty with intimacy. Relationships may be transactional or driven by security needs.",
+    "spiritual_implication": "Heavy karmic lesson — breaking cycles of greed and manipulation to find authentic purpose.",
+    "keywords": ["Saturn Rahu conjunction", "karmic obsession", "ambition manipulation", "societal pressure"]
+  },
+  {
+    "planets": ["Jupiter", "Rahu"],
+    "type": "Malefic",
+    "summary": "Conjunction of Jupiter (wisdom) and Rahu (illusion) — Guru Chandala Yoga. Wisdom becomes distorted by worldly ambition and illusion.",
+    "positive_traits": [
+      "Unconventional, innovative, and boundary-breaking intellectual expansion.",
+      "Strong charisma and ability to attract opportunities and followers.",
+      "Potential for visionary breakthroughs in philosophy and technology."
+    ],
+    "negative_traits": [
+      "Overconfidence and arrogance masking as wisdom.",
+      "Deception, manipulation, and distortion of spiritual teaching for personal gain.",
+      "Difficulty distinguishing genuine insight from self-created illusion."
+    ],
+    "career_implication": "Media, political philosophy, entrepreneurship — success possible but integrity must be guarded carefully.",
+    "love_implication": "Magnetic but potentially misleading partners. Watch for self-deception in romantic choices.",
+    "spiritual_implication": "Guru Chandala — the inflated guru. Humility and radical honesty are the antidotes and the path.",
+    "keywords": ["Jupiter Rahu conjunction", "Guru Chandala Yoga", "wisdom illusion", "charisma deception"]
+  },
+  {
+    "planets": ["Venus", "Saturn"],
+    "type": "Neutral",
+    "summary": "Conjunction of Venus (love, beauty) and Saturn (discipline, karma) — a structured, serious, and sometimes cold approach to love and pleasure.",
+    "positive_traits": [
+      "Practicality, loyalty, and deep commitment in relationships and finances.",
+      "Structured, disciplined approach to creative work and beauty.",
+      "Long-lasting partnerships built on mutual respect and endurance."
+    ],
+    "negative_traits": [
+      "Emotional coldness and difficulty expressing warmth spontaneously.",
+      "Feeling restricted or burdened in relationships.",
+      "Love experienced as duty rather than joy."
+    ],
+    "career_implication": "Architecture, luxury with discipline, structured creative fields, finance in arts.",
+    "love_implication": "Mature, serious love. Relationships feel karmic. Partners meet through duty or shared hardship.",
+    "spiritual_implication": "Love as karma yoga — fulfilling relational duties without attachment to outcome or reciprocity.",
+    "keywords": ["Venus Saturn conjunction", "serious love", "structured beauty", "karmic relationship"]
+  }
+]

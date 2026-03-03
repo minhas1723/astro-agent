@@ -1,0 +1,216 @@
+# Career Guidance Knowledge Base
+# astro-agent | RAG Knowledge Corpus
+# Format: [CATEGORY] followed by guidance lines
+# Categories: GENERAL, per zodiac sign, planetary influence, elemental
+
+[GENERAL]
+- Opportunities may arise in leadership roles when you least expect them.
+- Focus on consistent learning to build long-term career gains.
+- Working collaboratively with teams will bring more productive outcomes than working alone.
+- Avoid rushing into major career decisions without full clarity.
+- Trust your instincts when starting new initiatives — your gut is often right.
+- Periods of stagnation are not failures; they are preparation for the next leap.
+- Networking and visibility matter as much as skill in career advancement.
+- A difficult work period is often followed by a significant breakthrough.
+- Take time to reassess your goals every few months to stay aligned with your true purpose.
+- Financial growth follows when you focus on value creation over recognition.
+
+[ARIES]
+- Your natural leadership and boldness open doors others cannot see.
+- Avoid impulsive job changes — evaluate opportunities thoroughly before leaping.
+- High-energy environments like startups, sports, or military suit your drive.
+- Channel competitive energy into results rather than office politics.
+- Entrepreneurship is a natural path — your initiative and courage are your biggest assets.
+- This month favors launching new projects and taking the lead on stalled initiatives.
+- Beware of burning out by taking on too much simultaneously.
+- Your career thrives when you have autonomy — avoid micromanagement-heavy environments.
+
+[TAURUS]
+- Your patience and reliability make you a trusted pillar in any organization.
+- Financial careers, real estate, and luxury industries align with your natural sensibilities.
+- Avoid resisting change at work — adaptability will accelerate your growth.
+- Slow and steady progression suits you; avoid comparing your timeline to others.
+- Your aesthetic sense is a professional asset — lean into design, branding, or creative roles.
+- This month favors consolidating existing projects rather than starting new ones.
+- A raise or recognition may come through demonstrated consistency, not self-promotion.
+- Build financial security through disciplined saving alongside career growth.
+
+[GEMINI]
+- Your communication skills and wit are your greatest professional tools.
+- Careers in media, writing, technology, or education align naturally with your mind.
+- Avoid scattering your energy across too many projects — focus delivers more results.
+- Networking comes naturally to you; use it strategically to advance your career.
+- This month favors pitching ideas, negotiating, and starting conversations you have been avoiding.
+- Your versatility is a strength but can read as inconsistency — build a reputation for follow-through.
+- Learning a new skill or tool this period will pay dividends within three months.
+- Collaboration with diverse teams brings out your best thinking.
+
+[CANCER]
+- Your empathy and emotional intelligence make you exceptional in people-facing roles.
+- Healthcare, education, social work, and real estate align with your nurturing nature.
+- Avoid letting workplace emotions cloud professional judgment.
+- Your intuition about people is accurate — trust it when evaluating colleagues or deals.
+- This month favors deepening existing professional relationships over chasing new ones.
+- Home-based or flexible work arrangements boost your productivity significantly.
+- A mentor or senior figure may offer valuable guidance — stay open to it.
+- Financial security motivates you deeply; long-term career planning brings you peace.
+
+[LEO]
+- Your charisma and confidence naturally attract leadership opportunities.
+- Entertainment, management, politics, and education suit your commanding presence.
+- Avoid letting ego create unnecessary friction with peers — collaboration amplifies your shine.
+- Recognition and visibility are important to you; seek roles where your work is seen.
+- This month favors presenting ideas, leading meetings, and stepping into the spotlight.
+- Creative projects started now have strong potential for recognition and reward.
+- Generosity with your team builds long-term loyalty and amplifies your leadership impact.
+- Your career thrives under ambitious goals — set targets that challenge and inspire you.
+
+[VIRGO]
+- Your analytical mind and attention to detail make you invaluable in technical roles.
+- Medicine, data analysis, research, editing, and accounting suit your precision.
+- Avoid perfectionism paralyzing progress — done is better than perfect.
+- This month favors organizing systems, cleaning up processes, and improving efficiency.
+- Your service-oriented nature earns trust — people rely on you to deliver without being asked.
+- Documenting your contributions clearly will help during appraisals and reviews.
+- A health-work balance check is due — sustained output requires sustainable habits.
+- Collaboration works best when your role and responsibilities are clearly defined.
+
+[LIBRA]
+- Your diplomacy and fairness make you a natural mediator and team builder.
+- Law, HR, design, public relations, and counseling suit your balanced approach.
+- Avoid over-deliberating on decisions — timely action matters in career growth.
+- This month favors partnerships, joint ventures, and collaborative projects.
+- Your aesthetic sense and social grace open doors in client-facing roles.
+- A workplace conflict may need your mediation — approach it with fairness, not avoidance.
+- Seek environments where your voice is respected and creativity is valued.
+- Financial decisions benefit from a second opinion before committing.
+
+[SCORPIO]
+- Your strategic thinking and depth make you a formidable professional force.
+- Research, investigation, psychology, finance, and surgery suit your intensity.
+- Avoid power struggles at work — channel intensity into results, not politics.
+- This month favors deep-focus work, research projects, and tackling complex problems.
+- You excel in high-pressure environments where others falter.
+- Trust your instincts about colleagues — your read on people is almost always accurate.
+- Transformation is your superpower; career pivots others fear become your breakthroughs.
+- Protect sensitive work information carefully — not all colleagues have your integrity.
+
+[SAGITTARIUS]
+- Your optimism and vision make you a natural inspiration in any workplace.
+- Travel, academia, law, publishing, and spiritual industries suit your expansive mind.
+- Avoid overcommitting — your enthusiasm sometimes exceeds your bandwidth.
+- This month favors big-picture thinking, strategy sessions, and long-term planning.
+- International opportunities or cross-cultural projects align with your energy now.
+- Your honesty is respected — use it diplomatically, not bluntly.
+- Higher education or certifications pursued now will multiply career options significantly.
+- Freedom and purpose matter more to you than title or salary — seek both.
+
+[CAPRICORN]
+- Your discipline and ambition make you a natural climber in any organization.
+- Corporate leadership, finance, government, and architecture suit your structured mindset.
+- Avoid sacrificing personal life entirely for career — balance sustains long-term success.
+- This month favors long-term planning, goal-setting, and taking on additional responsibility.
+- Your reputation for reliability is your greatest career asset — protect it above all.
+- A senior role or increased responsibility may be offered — you are ready for it.
+- Patience with timelines is key; your career is a marathon, not a sprint.
+- Mentoring others will reinforce your leadership identity and expand your influence.
+
+[AQUARIUS]
+- Your innovation and humanitarian vision make you a disruptive force in any field.
+- Technology, science, activism, social entrepreneurship, and research suit your mind.
+- Avoid alienating colleagues with ideas that feel too far ahead of their time — bring them along.
+- This month favors experimenting with new tools, methods, or unconventional approaches.
+- Remote work or flexible structures bring out your best professional output.
+- Collaborative projects with a social impact dimension energize and motivate you deeply.
+- Your originality is your competitive advantage — resist pressure to conform to convention.
+- Building a personal brand around your unique perspective opens unexpected career doors.
+
+[PISCES]
+- Your creativity, empathy, and intuition are rare professional gifts.
+- Arts, music, healing, film, counseling, and spiritual work align with your soul.
+- Avoid letting indecision or self-doubt hold you back from opportunities.
+- This month favors creative projects, compassionate leadership, and intuitive decision-making.
+- A collaborative environment where you feel emotionally safe brings your best work.
+- Beware of absorbing workplace stress — establish clear emotional boundaries.
+- Your imagination is a business asset; find roles that reward original thinking.
+- Practical financial planning alongside creative pursuits ensures long-term stability.
+
+[PLANET_SUN]
+- Sun-influenced career periods bring visibility, recognition, and advancement opportunities.
+- Leadership roles become available when the Sun activates your career house.
+- Confidence and authority are heightened — ideal time to negotiate, present, or apply for promotions.
+- Avoid ego-driven decisions that could damage professional relationships.
+
+[PLANET_MOON]
+- Moon-influenced periods favor people-centric work, caregiving, and creative endeavors.
+- Emotional intelligence is your career superpower during Moon-activated phases.
+- Intuition about workplace dynamics is sharper — trust your instincts on team decisions.
+- Avoid major career moves during emotionally volatile Moon phases.
+
+[PLANET_MARS]
+- Mars-activated career phases bring energy, drive, and the courage to take bold action.
+- Competitive environments become energizing rather than draining.
+- Ideal time for launching initiatives, cold outreach, and pushing stalled projects forward.
+- Channel aggression into ambition — workplace conflicts during Mars transits can be costly.
+
+[PLANET_MERCURY]
+- Mercury-influenced periods favor communication, negotiation, and analytical work.
+- Ideal time for writing proposals, pitching clients, and making key presentations.
+- Networking and interviews go exceptionally well under Mercury's influence.
+- Mercury retrograde: avoid signing contracts, launching new projects, or major tech changes.
+
+[PLANET_JUPITER]
+- Jupiter transits bring career expansion, promotions, and abundance.
+- Higher education, certifications, or skill upgrades initiated now yield exceptional returns.
+- International opportunities and long-distance professional connections open up.
+- Generosity and mentorship during Jupiter phases build lasting professional karma.
+
+[PLANET_SATURN]
+- Saturn career phases demand discipline, hard work, and patient long-term building.
+- Shortcuts backfire under Saturn — integrity and consistency are the only paths forward.
+- Challenges during Saturn phases are karmic tests that build unshakeable professional foundations.
+- Roles requiring structure, responsibility, and endurance are where you excel now.
+
+[PLANET_VENUS]
+- Venus-activated career phases heighten creativity, aesthetic sense, and social magnetism.
+- Ideal time for client-facing work, pitching, creative presentations, and negotiating deals.
+- Arts, design, fashion, beauty, luxury brands, and entertainment naturally align with Venus energy.
+- Financial intuition is sharper — trust your instincts on investments and value-based decisions.
+- Venus dasha or transit over your career house often brings recognition for beauty and creativity.
+- Collaborative and harmonious work environments bring your best professional output under Venus.
+
+[PLANET_RAHU]
+- Rahu career phases bring disruptive ambition, unconventional thinking, and sudden opportunity.
+- Technology, artificial intelligence, media, foreign trade, and cutting-edge industries align with Rahu.
+- A period of rapid career acceleration — seize opportunities even if they feel unfamiliar or risk-laden.
+- Rahu rewards those who pursue career paths others have not yet imagined — be a pioneer, not a follower.
+- Beware of shortcuts and ethical compromises during Rahu phases — success gained through deception collapses.
+- International exposure, foreign clients, or cross-cultural projects carry particularly strong career potential.
+
+[PLANET_KETU]
+- Ketu career phases invite a pulling back from worldly ambition toward meaningful, purpose-driven work.
+- Research, astrology, spiritual teaching, medicine, and depth-oriented careers resonate with Ketu energy.
+- This period favors going deep over going wide — mastery over one domain rather than expansion into many.
+- A career that felt meaningful may begin to feel hollow — Ketu is prompting you toward your true vocation.
+- Do not chase recognition or status during Ketu phases; authentic contribution matters more than visibility.
+- Periods of career withdrawal, sabbatical, or introspection under Ketu often precede major spiritual pivots.
+
+[ELEMENT_FIRE]
+- Fire signs (Aries, Leo, Sagittarius) thrive in high-energy, high-stakes career environments.
+- Leadership, entrepreneurship, and public-facing roles suit the fire element's drive.
+- Avoid burnout by building recovery periods into an otherwise intense work schedule.
+
+[ELEMENT_EARTH]
+- Earth signs (Taurus, Virgo, Capricorn) build careers through steady, reliable excellence.
+- Finance, construction, health, and management suit the earth element's practical nature.
+- Long-term thinking and delayed gratification are earth's greatest career advantages.
+
+[ELEMENT_AIR]
+- Air signs (Gemini, Libra, Aquarius) excel in communication, ideas, and collaboration.
+- Media, law, technology, and design suit the air element's intellectual nature.
+- Focus is the air element's career challenge — channeling ideas into execution is the key.
+
+[ELEMENT_WATER]
+- Water signs (Cancer, Scorpio, Pisces) bring emotional depth and intuition to their work.
+- Healing, research, arts, and counseling suit the water element's inner-world strength.
+- Protecting emotional energy at work is critical — water signs absorb workplace stress deeply.

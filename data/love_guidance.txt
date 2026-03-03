@@ -1,0 +1,219 @@
+# Love & Relationship Guidance Knowledge Base
+# astro-agent | RAG Knowledge Corpus
+# Format: [CATEGORY] followed by guidance lines
+# Categories: GENERAL, per zodiac sign, planetary influence, elemental
+
+[GENERAL]
+- Emotional clarity strengthens all relationships — know what you feel before expressing it.
+- Try communicating your feelings openly rather than expecting others to read your mind.
+- Avoid arguments driven by ego or impatience — they rarely resolve what actually needs healing.
+- Show appreciation for the small gestures; love is built in the ordinary moments.
+- Relationships require consistent effort, not just grand romantic acts.
+- Boundaries are not walls — they are the foundation of healthy, lasting love.
+- Periods of distance in a relationship are often invitations to grow individually.
+- Trust is built slowly and broken quickly — protect it with honesty and consistency.
+- Love is not just a feeling; it is a daily choice to show up for another person.
+- Forgiveness does not mean forgetting — it means releasing the hold a wound has over you.
+
+[ARIES]
+- Your passion and directness are magnetic — use them to initiate, not to dominate.
+- Independence is vital to you; seek a partner who respects your need for autonomy.
+- Avoid letting impatience push you to move faster than a relationship is ready for.
+- Your love is fierce and loyal once committed — let potential partners see that depth.
+- This period favors bold romantic gestures and honest conversations about where things stand.
+- Conflict in your relationship right now can be resolved through direct, calm dialogue.
+- Avoid competitive dynamics in love — your partner is not a rival.
+- Physical affection and shared adventures keep your romantic energy alive.
+
+[TAURUS]
+- Your loyalty and steadiness make you one of the most devoted partners of the zodiac.
+- You need emotional and financial security to fully open your heart — that is valid.
+- Avoid possessiveness masking as love — trust must be given as well as earned.
+- This period favors deepening commitment, having honest conversations about the future.
+- Small, sensory acts of love — cooking together, physical touch, shared comfort — recharge your bond.
+- If something feels off in your relationship, address it before stubbornness turns it into a wall.
+- A long-term partnership may reach a meaningful milestone or conversation this month.
+- Your love is not showy but it is real — make sure your partner knows how deeply you care.
+
+[GEMINI]
+- Intellectual connection is your deepest form of intimacy — you need a partner who engages your mind.
+- Avoid emotional inconsistency confusing those who love you — be clear about your feelings.
+- This period favors open, playful conversations that bring back lightness to your relationship.
+- Boredom is your relationship's greatest enemy — introduce novelty, ideas, and new experiences.
+- Your wit and charm attract many — focus that energy on the person who truly matters.
+- A relationship may deepen significantly when you move past surface-level conversation.
+- Listen as much as you speak — deep listening is an act of love Geminis must consciously practice.
+- Short trips or shared learning experiences with your partner strengthen your bond now.
+
+[CANCER]
+- You love with extraordinary depth and devotion — protect that gift by choosing people worthy of it.
+- Your intuition about a partner's emotional state is rarely wrong — trust it.
+- Avoid withdrawing into your shell when hurt — vulnerability is the path to deeper connection.
+- This period favors creating safe, nurturing spaces for emotional honesty in your relationship.
+- Home and shared domestic rituals are love languages for you — lean into them.
+- If you have been carrying emotional weight alone, now is the time to let your partner in.
+- Old emotional wounds may surface — use them as opportunities to heal, not to close off.
+- A new romantic connection forming now has the potential for deep, lasting roots.
+
+[LEO]
+- You love generously and dramatically — your partner should feel like the most adored person alive.
+- Avoid needing constant validation in love — your worth is not determined by admiration.
+- This period favors romantic grand gestures, quality time, and celebrating your relationship openly.
+- Your loyalty, once given, is unshakeable — make sure your partner truly deserves it.
+- Avoid letting pride prevent you from apologizing when you are wrong — humility deepens love.
+- A partner who matches your warmth and appreciates your generosity is your ideal companion.
+- Playfulness and creativity in your relationship keep the flame strong — plan something memorable.
+- If a relationship has felt flat, reignite it by bringing your full, radiant self back into it.
+
+[VIRGO]
+- You show love through service, care, and attention to detail — make sure that is also received as love.
+- Avoid over-analyzing your relationship to the point of manufacturing problems that do not exist.
+- This period favors practical acts of love — solving a problem together, supporting a partner's goals.
+- Your standards are high, but be careful they do not become a barrier to genuine connection.
+- Expressing vulnerability is uncomfortable for you but transformative for your relationships.
+- A partner who appreciates your devotion and does not exploit your giving nature is your match.
+- Health and wellness routines shared with a partner can become a meaningful form of intimacy.
+- If criticism has crept into your relationship, replace it with specific appreciation this month.
+
+[LIBRA]
+- You are the zodiac's most romantic sign — love is not just desired by you, it is essential.
+- Avoid losing yourself in a relationship trying to keep the peace — your needs matter too.
+- This period favors honest conversations about what you need from your relationship.
+- Your charm and grace make you deeply attractive — own that without guilt.
+- Indecision in matters of the heart is your greatest challenge — trust your feelings over logic.
+- A relationship built on mutual respect and aesthetic harmony is your deepest aspiration.
+- If you have been avoiding a difficult romantic conversation, the time to have it is now.
+- Shared beauty experiences — art, music, travel — are acts of love that fill your soul.
+
+[SCORPIO]
+- You love with volcanic intensity — all or nothing, and nothing in between.
+- Avoid letting jealousy or control erode the trust that took so long to build.
+- This period favors deep, transformative conversations that take your relationship to a new level.
+- Your loyalty is absolute — ensure it is reciprocated before offering it completely.
+- Emotional walls you have built for protection may now be safe to lower with the right person.
+- Intimacy for you goes far beyond the physical — you seek psychological and spiritual merger.
+- If betrayal has occurred, you must decide: forgive and rebuild, or release with dignity.
+- A karmic relationship may be completing its cycle — honor what it taught you.
+
+[SAGITTARIUS]
+- Your love is adventurous, generous, and freedom-loving — you need a partner who can keep up.
+- Avoid commitmentphobia masking as freedom-seeking — some roots allow deeper flight.
+- This period favors exploring new experiences together that reignite excitement in your bond.
+- Honesty is your strongest love value — but delivery with kindness makes the truth land better.
+- A partner who shares your philosophical curiosity and loves to explore will hold your heart long.
+- Long-distance or cross-cultural romantic connections carry positive energy this period.
+- Avoid taking a stable, loving relationship for granted while chasing the next horizon.
+- Laughter and shared adventure are your most powerful love languages — use them freely.
+
+[CAPRICORN]
+- You approach love seriously and with great intentionality — that is a gift, not a flaw.
+- Avoid letting career ambition crowd out the time and presence your relationship needs.
+- This period favors making concrete commitments, having practical conversations about the future.
+- Emotional warmth may not come naturally, but your acts of provision and loyalty speak loudly.
+- Allow yourself to be vulnerable with your partner — strength includes the courage to be seen.
+- A relationship that has been tested by time and hardship is proving its worth right now.
+- Your partner needs to know they are a priority, not a footnote to your ambitions.
+- Quality, intentional time together matters more to your bond than quantity of time.
+
+[AQUARIUS]
+- You love unconventionally and fiercely on your own terms — that is your right.
+- Avoid emotional detachment reading as indifference — your partner needs warmth, not just intellect.
+- This period favors honest, non-judgmental conversations about what your relationship truly means.
+- Friendship is the foundation of all your deepest loves — nurture that friendship always.
+- You need a partner who respects your independence and shares your vision for a better world.
+- Romantic connections formed through shared causes or intellectual pursuits are deeply aligned for you.
+- Avoid rebellion for its own sake in love — sometimes stability is a radical and beautiful choice.
+- Emotional intimacy grows when you let your partner see the feeling person behind the ideas.
+
+[PISCES]
+- You love with a depth and selflessness that few signs can match — protect that sacred gift.
+- Avoid losing yourself completely in another person — you need your own shore to return to.
+- This period favors romantic depth, spiritual connection, and creative expressions of love.
+- Your intuition about a partner's unspoken feelings is extraordinarily accurate — trust it.
+- Beware of idealizing partners and missing red flags — see people clearly as well as lovingly.
+- Love for you is a spiritual experience — seek partners who honor that depth.
+- Creative expressions of love — art, music, poetry, cooking — speak your heart better than words.
+- If a relationship has been draining you, it may be time to honestly evaluate what it is giving back.
+
+[PLANET_SUN]
+- Sun-activated love phases bring clarity about what you truly want from a relationship.
+- Your confidence and magnetism are heightened — you attract partners through authentic self-expression.
+- This is a period for honest conversations about identity and role within a partnership.
+- Leo-Sun energy in relationships: you radiate warmth but need to resist the urge to dominate.
+- A Sun return or solar transit to your 7th house often marks a significant relationship revelation.
+- Avoid choosing partners based solely on how much they admire you — seek genuine mutual respect.
+
+[PLANET_MERCURY]
+- Mercury-influenced relationship phases are driven by communication, wit, and intellectual connection.
+- Difficult conversations that have been avoided are best addressed during Mercury direct phases.
+- Misunderstandings and miscommunications are common during Mercury retrograde — choose words with extra care.
+- Shared learning, travel, and lively debate are love languages for Mercury-activated periods.
+- Writing to a partner — letters, notes, heartfelt messages — carries exceptional impact now.
+- A connection formed through intellectual exchange or shared curiosity carries strong Mercury relationship energy.
+
+[PLANET_VENUS]
+- Venus transits bring heightened romantic energy, attractiveness, and opportunities for new love.
+- Existing relationships deepen in warmth and affection under Venus influence.
+- Financial and romantic abundance often arrive together during Venus-activated phases.
+- Aesthetic experiences shared with a partner — art, music, beauty — are especially meaningful now.
+- A Venus return to your natal position marks a powerful period for love and self-worth.
+
+[PLANET_MOON]
+- Moon-influenced relationship phases are emotionally intense and deeply revealing.
+- Intuition about a partner's needs is sharper — respond with empathy, not analysis.
+- Full Moon periods bring relationship tensions to the surface for resolution.
+- New Moon periods are ideal for setting intentions about the kind of love you want to invite.
+- Emotional security and domestic harmony are love priorities during Moon-activated phases.
+
+[PLANET_MARS]
+- Mars brings passion, physical attraction, and desire intensity to relationships.
+- Sexual and romantic chemistry is heightened — existing relationships feel renewed energy.
+- Avoid Mars-fueled arguments becoming destructive — passion and anger share the same fire.
+- New attractions forming under Mars influence are intense but require patience to build lasting roots.
+- Courage to pursue someone you have been hesitant about is supported by Mars energy.
+
+[PLANET_JUPITER]
+- Jupiter expands love — relationships grow deeper, commitments become more serious.
+- New romantic connections forming under Jupiter carry exceptional long-term potential.
+- Generosity and gratitude in your relationship attract more of what you are appreciating.
+- Marriage, engagements, and major relationship milestones are supported by Jupiter transits.
+- Love that has a philosophical or spiritual dimension flourishes under Jupiter's influence.
+
+[PLANET_SATURN]
+- Saturn tests relationships to reveal their true foundations.
+- Relationships that survive Saturn transits emerge stronger and more committed.
+- Superficial or karmic connections that no longer serve growth often end during Saturn phases.
+- This is a period for seriousness, honesty, and evaluating what you truly want from love.
+- Saturn rewards patient, respectful, and consistent love — shortcuts and games backfire now.
+
+[PLANET_RAHU]
+- Rahu brings intense, karmic, and sometimes obsessive attractions into your life.
+- A relationship forming under Rahu may feel destined — proceed with awareness, not just feeling.
+- Unconventional or cross-cultural romantic connections carry strong Rahu energy.
+- Avoid illusions in love during Rahu phases — see your partner clearly, not just as you wish them to be.
+
+[PLANET_KETU]
+- Ketu brings karmic completion to relationships — what was unfinished in past cycles surfaces now.
+- Feelings of spiritual connection or inexplicable familiarity with someone signal Ketu influence.
+- Some relationships may end during Ketu phases — release with gratitude, not bitterness.
+- Solitude and inner reflection during Ketu phases are acts of self-love that prepare you for deeper connection.
+
+[ELEMENT_FIRE]
+- Fire signs (Aries, Leo, Sagittarius) love with passion, enthusiasm, and fierce loyalty.
+- They need excitement and growth in relationships — stagnation is love's enemy for fire signs.
+- Fire sign love thrives on admiration, adventure, and a partner who matches their energy.
+
+[ELEMENT_EARTH]
+- Earth signs (Taurus, Virgo, Capricorn) build love slowly, steadily, and with lasting intention.
+- Physical presence, acts of service, and material security are their primary love languages.
+- Earth sign love is not dramatic but it is deeply reliable — and that is its greatest beauty.
+
+[ELEMENT_AIR]
+- Air signs (Gemini, Libra, Aquarius) fall in love with minds first and hearts second.
+- Communication, intellectual exchange, and shared ideas are the foundation of air sign love.
+- Freedom within partnership is non-negotiable — give air signs space and they will always return.
+
+[ELEMENT_WATER]
+- Water signs (Cancer, Scorpio, Pisces) love with extraordinary emotional depth and sensitivity.
+- They need emotional safety and genuine intimacy — surface-level connections do not satisfy.
+- Water sign love is healing, intuitive, and transformative when it finds its true match.

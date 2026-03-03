@@ -1,0 +1,57 @@
+# ==============================================================================
+# .dockerignore — Keep build context as small as possible
+# ==============================================================================
+
+# Git
+.git
+.gitignore
+
+# Non-deployable directories
+docs/
+other/
+
+# Virtual environments & dependencies (rebuilt in container)
+**/.venv
+**/node_modules
+**/__pycache__
+
+# Build outputs (rebuilt in container)
+ui/dist
+api/dist
+api/build
+
+# Environment files (injected at runtime, not baked into image)
+**/.env
+**/.env.local
+**/.env.*.local
+
+# IDE & editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Agent / AI helper files
+.gemini
+.agent
+**/CLAUDE.md
+**/AGENT.md
+
+# Temp working files
+api/all_files.txt
+api/all_sorted.txt
+api/processed_files.txt
+api/processed_sorted.txt
+api/processed_files.md
+api/upload_output.json
+
+# Docker files (don't send to themselves)
+Dockerfile
+docker-compose*.yml
+
+# Lock files that are gitignored
+ui/bun.lock
